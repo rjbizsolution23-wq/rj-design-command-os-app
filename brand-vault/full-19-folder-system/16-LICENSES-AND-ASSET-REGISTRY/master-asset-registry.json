@@ -1,0 +1,327 @@
+{
+  "brand": "RJ Business Solutions",
+  "generated_date": "2026-11-20",
+  "scoring_weights": {
+    "brand_compatibility": 0.3,
+    "design_quality": 0.25,
+    "editability": 0.15,
+    "cross_platform_usefulness": 0.15,
+    "licensing_suitability": 0.1,
+    "implementation_efficiency": 0.05
+  },
+  "downloaded_envato_kits": [
+    {
+      "rank": 1,
+      "title": "Luxury Branding Identity & Stationery Pack",
+      "creator": "nanoagency",
+      "category": "Brand Identity & Stationery",
+      "url": "https://app.envato.com/search/graphic-templates/4ad11983-0158-4460-a321-8b71ae550263?itemType=graphic-templates&term=luxury+brand+identity&sort=popular",
+      "formats": [
+        "AI",
+        "EPS",
+        "300 DPI CMYK Vector"
+      ],
+      "weighted_score": 96.5,
+      "status": "DOWNLOADED_AND_EXTRACTED",
+      "local_zip": "04-ENVATO-SOURCE-ASSETS/original-zips/luxury-branding-identity-stationery-pack-2026-10-22-06-49-27-utc.zip",
+      "working_dir": "07-CORPORATE-STATIONERY/envato-luxury-stationery-pack",
+      "bytes": 12273734
+    },
+    {
+      "rank": 2,
+      "title": "Black And Gold (Presentation Template)",
+      "creator": "ayasumak",
+      "category": "Investor Pitch Deck & Proposals",
+      "url": "https://app.envato.com/search/presentation-templates/8189097d-d7d9-452c-9043-25491eaa29e7?itemType=presentation-templates&term=black+gold&sort=popular",
+      "formats": [
+        "PPTX",
+        "Google Slides",
+        "1920x1080"
+      ],
+      "weighted_score": 95.5,
+      "status": "DOWNLOADED_AND_EXTRACTED",
+      "local_zip": "04-ENVATO-SOURCE-ASSETS/original-zips/black-and-gold-2026-02-09-23-59-04-utc.zip",
+      "working_dir": "08-PRESENTATIONS-AND-PROPOSALS/envato-black-and-gold-deck",
+      "bytes": 3311424
+    },
+    {
+      "rank": 3,
+      "title": "Modern & Professional Finance Consulting Website (Credence)",
+      "creator": "Protagonis",
+      "category": "Website & Figma UI Kit",
+      "url": "https://app.envato.com/search/graphic-templates/5878a4d8-abab-46a8-80d3-00b1c91b52a7?itemType=graphic-templates&term=consulting+finance+website&sort=popular",
+      "formats": [
+        "Figma (.fig)",
+        "12 Pages",
+        "1440x1024"
+      ],
+      "weighted_score": 94.5,
+      "status": "DOWNLOADED_AND_EXTRACTED",
+      "local_zip": "04-ENVATO-SOURCE-ASSETS/original-zips/modern-professional-finance-consulting-website-2026-10-23-00-20-55-utc.zip",
+      "working_dir": "05-WEBSITE-TEMPLATES/envato-credence-finance-figma",
+      "bytes": 887286
+    },
+    {
+      "rank": 4,
+      "title": "Business value Consulting Social Media Post",
+      "creator": "Creava",
+      "category": "Executive Social Media Kit",
+      "url": "https://app.envato.com/search/graphic-templates/3713590a-10ba-4bcc-b1d9-98fe595a9b2f?itemType=graphic-templates&term=consulting+social+media&sort=popular",
+      "formats": [
+        "AI",
+        "EPS",
+        "PSD",
+        "Canva Editable Link",
+        "1080x1350"
+      ],
+      "weighted_score": 94.0,
+      "status": "DOWNLOADED_AND_EXTRACTED",
+      "local_zip": "04-ENVATO-SOURCE-ASSETS/original-zips/business-value-consulting-social-media-post-2026-10-23-04-00-26-utc.zip",
+      "working_dir": "06-SOCIAL-MEDIA-KIT/envato-consulting-social-pack",
+      "bytes": 11496611
+    },
+    {
+      "rank": 5,
+      "title": "Black and Golden Luxury Marble Backgrounds",
+      "creator": "andrewtimothy",
+      "category": "Luxury Textures & Backgrounds",
+      "url": "https://app.envato.com/search/graphics/4aaafbea-b156-4f08-8059-782b6b8d538e?itemType=graphics&term=black+gold+luxury+background&sort=popular",
+      "formats": [
+        "4 JPGs",
+        "6000x4000 px"
+      ],
+      "weighted_score": 93.0,
+      "status": "DOWNLOADED_AND_EXTRACTED",
+      "local_zip": "04-ENVATO-SOURCE-ASSETS/original-zips/black-and-golden-luxury-marble-backgrounds-2026-10-22-11-13-41-utc.zip",
+      "working_dir": "09-MARKETING-GRAPHICS/envato-black-gold-marble-textures",
+      "bytes": 32003957
+    }
+  ],
+  "verified_runner_up_shortlist": [
+    {
+      "title": "Luxury Hotel Brand Identity Guideline",
+      "creator": "twinstd",
+      "category": "Brand Guidelines",
+      "url": "https://app.envato.com/search/graphic-templates/b94bbb49-cd18-4d9f-8640-3c00e0c04cde?itemType=graphic-templates&term=luxury+brand+identity&sort=popular"
+    },
+    {
+      "title": "Buficon - Business Finance & Consulting Website",
+      "creator": "Sanstive",
+      "category": "Website UI",
+      "url": "https://app.envato.com/search/graphic-templates/75571c37-4682-472a-97f7-706853bdf5e1?itemType=graphic-templates&term=consulting+finance+website&sort=popular"
+    },
+    {
+      "title": "Consulting Corporate LinkedIn Set",
+      "creator": "miraistoodio",
+      "category": "LinkedIn Social Kit",
+      "url": "https://app.envato.com/search/graphic-templates/2bf11a4e-6be3-450a-8bcc-93a3722fb3fb?itemType=graphic-templates&term=corporate+linkedin+instagram&sort=popular"
+    },
+    {
+      "title": "Pitch Deck",
+      "creator": "Kitpro",
+      "category": "Pitch Deck",
+      "url": "https://app.envato.com/search/presentation-templates/23677abf-a7e8-4f29-be7a-43bed5659ba2?itemType=presentation-templates&term=luxury+pitch+deck&sort=popular"
+    },
+    {
+      "title": "Stationery Mockup",
+      "creator": "pixelvoyager1",
+      "category": "Stationery PSD Mockup",
+      "url": "https://app.envato.com/search/graphic-templates/253d40b6-d62b-4771-bc37-a10aaf2d135b?itemType=graphic-templates&term=luxury+stationery+mockup&sort=popular"
+    }
+  ],
+  "downloaded_envato_fonts_count": 12,
+  "luxury_tech_division_logo_suite": {
+    "primary_obsidian_gold": "01-LOGOS-AND-MONOGRAMS/luxury-tech-division/rj-luxury-black-gold-logo-primary.png",
+    "transparent_metallic_gold": "01-LOGOS-AND-MONOGRAMS/luxury-tech-division/rj-luxury-gold-transparent.png",
+    "alabaster_bronze": "01-LOGOS-AND-MONOGRAMS/luxury-tech-division/rj-luxury-alabaster-bronze-logo.png",
+    "gold_watermark": "01-LOGOS-AND-MONOGRAMS/luxury-tech-division/rj-luxury-watermark-gold.png",
+    "horizontal_lockup_svg": "01-LOGOS-AND-MONOGRAMS/luxury-tech-division/rj-luxury-tech-horizontal-lockup.svg",
+    "original_blue_white_preserved": "01-LOGOS-AND-MONOGRAMS/rj-official-approved-logo.jpeg"
+  },
+  "downloaded_scaling_packs_wave2": [
+    {
+      "title": "Gold & Glamour Social Media Pack",
+      "creator": "Kahuna_Design",
+      "working_dir": "06-SOCIAL-MEDIA-KIT/envato-gold-glamour-social-mega-pack",
+      "bytes": 130534018
+    },
+    {
+      "title": "Professional LinkedIn Banner",
+      "creator": "Visualabs",
+      "working_dir": "06-SOCIAL-MEDIA-KIT/envato-executive-linkedin-banners",
+      "bytes": 10511036
+    },
+    {
+      "title": "YouTube Thumbnails with Gold Text",
+      "creator": "Sko4",
+      "working_dir": "06-SOCIAL-MEDIA-KIT/envato-gold-youtube-thumbnails",
+      "bytes": 27917134
+    },
+    {
+      "title": "Gold & Black Abstract Voronoi Texture Backgrounds (15x 8K)",
+      "creator": "MaamounAlbibi",
+      "working_dir": "09-MARKETING-GRAPHICS/envato-8k-gold-black-voronoi-3d",
+      "bytes": 291077322
+    },
+    {
+      "title": "Gold Logo Intro (4K 60fps After Effects)",
+      "creator": "_miko_",
+      "working_dir": "11-VIDEO-AND-MOTION/envato-4k-gold-logo-intro-ae",
+      "bytes": 29531943
+    }
+  ],
+  "downloaded_design_system_wave3": [
+    {
+      "title": "GlowStack Dark Mode Admin Dashboard UI Kit Figma",
+      "creator": "CreateBigSupply",
+      "category": "UI/UX Design System (Figma)",
+      "working_dir": "05-WEBSITE-TEMPLATES/envato-glowstack-dark-dashboard-figma",
+      "original_file": "04-ENVATO-SOURCE-ASSETS/original-zips/glowstack-dark-mode-admin-dashboard-ui-kit-figma-2026-10-23-03-47-39-utc.zip",
+      "bytes": 3522466
+    },
+    {
+      "title": "Finance Icons (100x4 Styles)",
+      "creator": "andinurstd",
+      "category": "Vector Icons (SVG/AI/EPS/PNG)",
+      "working_dir": "12-ICONS-AND-DESIGN-ELEMENTS/envato-finance-icons-svg",
+      "original_file": "04-ENVATO-SOURCE-ASSETS/original-zips/finance-icons-2026-10-22-09-00-00-utc.zip",
+      "bytes": 73193343
+    },
+    {
+      "title": "3D Luxury Background (7000x4000)",
+      "creator": "Zffoto",
+      "category": "3D Visuals & Hero Graphics",
+      "working_dir": "09-MARKETING-GRAPHICS/envato-3d-luxury-gold-wave",
+      "original_file": "04-ENVATO-SOURCE-ASSETS/original-zips/3d-luxury-background-2026-10-22-06-43-20-utc.zip",
+      "bytes": 15856532
+    },
+    {
+      "title": "Elegant Golden Particles Shimmering Background Loop (4K 60fps)",
+      "creator": "MIKVIZ",
+      "category": "4K Ambient Video Loop",
+      "working_dir": "11-VIDEO-AND-MOTION/envato-4k-golden-particles-loop",
+      "original_file": "04-ENVATO-SOURCE-ASSETS/original-zips/elegant-golden-particles-shimmering-background-loo-2026-10-03-17-21-47-utc.mp4",
+      "bytes": 39516063
+    },
+    {
+      "title": "Minimal Business Titles (After Effects)",
+      "creator": "Aquavitae",
+      "category": "Motion Graphics & Lower Thirds",
+      "working_dir": "11-VIDEO-AND-MOTION/envato-minimal-business-titles-ae",
+      "original_file": "04-ENVATO-SOURCE-ASSETS/original-zips/minimal-business-titles-2026-09-24-09-41-16-utc.zip",
+      "bytes": 64941165
+    },
+    {
+      "title": "Dark Elegant Lighting Devices Mockup (3x 3000px PSD)",
+      "creator": "mockulab",
+      "category": "Dark Device Mockups",
+      "working_dir": "09-MARKETING-GRAPHICS/envato-dark-lighting-device-mockups",
+      "original_file": "04-ENVATO-SOURCE-ASSETS/original-zips/dark-elegant-lighting-devices-mockup-2026-10-22-23-49-07-utc.zip",
+      "bytes": 37567471
+    }
+  ],
+  "total_licensed_envato_archives": 38,
+  "rendered_video_cutscenes_and_transitions": [
+    "11-VIDEO-AND-MOTION/rj-cutscenes-and-transitions/01-RJ-Cutscene-Sovereign-Logo-Stinger-1080p60.mp4",
+    "11-VIDEO-AND-MOTION/rj-cutscenes-and-transitions/02-RJ-Cutscene-Executive-Chapter-Breaker-1080p60.mp4",
+    "11-VIDEO-AND-MOTION/rj-cutscenes-and-transitions/03-RJ-Cutscene-Founder-Authority-Intro-1080p60.mp4",
+    "11-VIDEO-AND-MOTION/rj-cutscenes-and-transitions/04-RJ-Cutscene-HighTicket-Endscreen-CTA-1080p60.mp4",
+    "11-VIDEO-AND-MOTION/rj-cutscenes-and-transitions/05-RJ-Transition-Champagne-Gold-Vault-Wipe-1080p60.mp4"
+  ],
+  "rendered_infographics_and_overlays": [
+    "15-FINAL-EXPORTS/infographics-and-content-kit/01-RJ-Infographic-5-Layer-Sovereign-AI-Architecture-1080x1350.png",
+    "15-FINAL-EXPORTS/infographics-and-content-kit/02-RJ-Infographic-Legacy-SaaS-vs-Sovereign-Cloudflare-1080x1350.png",
+    "15-FINAL-EXPORTS/infographics-and-content-kit/03-RJ-Infographic-30-60-90-Day-Enterprise-Deployment-Roadmap-1080x1350.png",
+    "15-FINAL-EXPORTS/infographics-and-content-kit/04-RJ-Infographic-Credit-Intelligence-And-Capital-Readiness-1080x1350.png",
+    "15-FINAL-EXPORTS/infographics-and-content-kit/05-RJ-Infographic-Widescreen-Ecosystem-Boardroom-Map-1920x1080.png",
+    "15-FINAL-EXPORTS/infographics-and-content-kit/06-RJ-Broadcast-Overlay-Frame-16x9-Transparent-1920x1080.png",
+    "15-FINAL-EXPORTS/infographics-and-content-kit/07-RJ-Reels-TikTok-Overlay-Frame-9x16-Transparent-1080x1920.png",
+    "15-FINAL-EXPORTS/infographics-and-content-kit/08-RJ-Interactive-Infographic-Builder-Template.html"
+  ],
+  "downloaded_store_and_bookstore_wave4": [
+    {
+      "title": "Anikalan Luxury Dark & Gold eCommerce Figma Template",
+      "creator": "BuddhaThemes",
+      "category": "Digital Store UI Kit (Figma)",
+      "working_dir": "05-WEBSITE-TEMPLATES/envato-luxury-ecommerce-store-figma",
+      "original_file": "04-ENVATO-SOURCE-ASSETS/original-zips/jewelry-ecommerce-figma-template-2026-10-23-00-51-52-utc.zip",
+      "bytes": 37369346
+    },
+    {
+      "title": "Spine Bookstore Landing Page Figma Template",
+      "creator": "VisuraLab",
+      "category": "Bookstore UI Kit (Figma)",
+      "working_dir": "05-WEBSITE-TEMPLATES/envato-spine-bookstore-figma",
+      "original_file": "04-ENVATO-SOURCE-ASSETS/original-zips/spine-bookstore-landing-page-figma-template-2026-10-23-03-21-31-utc.zip",
+      "bytes": 4557344
+    },
+    {
+      "title": "Hardcover Book Mockup (4000x3000 300DPI PSD)",
+      "creator": "graphicsupply",
+      "category": "3D Book Cover Mockup (PSD)",
+      "working_dir": "09-MARKETING-GRAPHICS/envato-3d-hardcover-book-mockup-psd",
+      "original_file": "04-ENVATO-SOURCE-ASSETS/original-zips/hardcover-book-mockup-2026-10-23-01-29-53-utc.zip",
+      "bytes": 38171150
+    },
+    {
+      "title": "High Quality Software Box Mockup (3x 4500x3000 PSD)",
+      "creator": "scribrostd",
+      "category": "3D Digital Product Box Mockup (PSD)",
+      "working_dir": "09-MARKETING-GRAPHICS/envato-3d-software-box-mockup-psd",
+      "original_file": "04-ENVATO-SOURCE-ASSETS/original-zips/high-quality-software-box-mockup-2026-10-22-14-52-36-utc.zip",
+      "bytes": 11733311
+    }
+  ],
+  "rendered_store_and_bookstore_3d_covers": [
+    "01-RJ-Book-Cover-Empowering-Generational-Wealth-1200x1600.png",
+    "02-RJ-Book-Cover-Cloudflare-First-Enterprise-1200x1600.png",
+    "03-RJ-Box-Cover-Sovereign-Cloudflare-CRM-OS-1200x1200.png",
+    "04-RJ-Box-Cover-Super-Agents-266-MASS-Vault-1200x1200.png",
+    "05-RJ-Box-Cover-Quantum-Prompt-Genesis-v2-1200x1200.png",
+    "06-RJ-Box-Cover-Sovereign-AI-Chat-Concierge-Pro-1200x1200.png"
+  ],
+  "wave_5_website_templates": [
+    {
+      "id": "prd_011",
+      "title": "Aivora \u2014 AI Agency & Autonomous SaaS HTML5 Website Template (Cloudflare Edition)",
+      "extracted_folder": "05-WEBSITE-TEMPLATES/envato-aivora-ai-agency-html",
+      "store_zip": "prd_011-Aivora-AI-Agency-and-SaaS-Cloudflare-Website-Template.zip",
+      "store_pdf": "11-Aivora-AI-Agency-and-SaaS-Website-Template-Deployment-Book.pdf"
+    },
+    {
+      "id": "prd_012",
+      "title": "Finvoro \u2014 Private Wealth, Credit Advisory & FinTech HTML5 Website Template",
+      "extracted_folder": "05-WEBSITE-TEMPLATES/envato-finvoro-finance-investment-html",
+      "store_zip": "prd_012-Finvoro-Private-Wealth-and-FinTech-Cloudflare-Website-Template.zip",
+      "store_pdf": "12-Finvoro-Private-Wealth-and-Credit-Advisory-Website-Template-Book.pdf"
+    },
+    {
+      "id": "prd_013",
+      "title": "LawGuru \u2014 Corporate Law Firm, Litigation & Legal Advisory HTML5 Website Template",
+      "extracted_folder": "05-WEBSITE-TEMPLATES/envato-lawguru-law-firm-attorney-html",
+      "store_zip": "prd_013-LawGuru-Corporate-Law-Firm-Cloudflare-Website-Template.zip",
+      "store_pdf": "13-LawGuru-Corporate-Law-Firm-and-Legal-Advisory-Website-Template-Book.pdf"
+    },
+    {
+      "id": "prd_014",
+      "title": "Obry \u2014 Dark Luxury Digital Studio & Executive Portfolio HTML5 Website Template",
+      "extracted_folder": "05-WEBSITE-TEMPLATES/envato-obry-creative-agency-html",
+      "store_zip": "prd_014-Obry-Dark-Luxury-Creative-Agency-Cloudflare-Website-Template.zip",
+      "store_pdf": "14-Obry-Dark-Luxury-Creative-and-Digital-Agency-Website-Template-Book.pdf"
+    },
+    {
+      "id": "prd_015",
+      "title": "Relxtower \u2014 Luxury Real Estate, Commercial Property & Syndication HTML5 Template",
+      "extracted_folder": "05-WEBSITE-TEMPLATES/envato-relxtower-luxury-real-estate-html",
+      "store_zip": "prd_015-Relxtower-Luxury-Real-Estate-Cloudflare-Website-Template.zip",
+      "store_pdf": "15-Relxtower-Luxury-Real-Estate-and-Property-Development-Website-Book.pdf"
+    },
+    {
+      "id": "prd_016",
+      "title": "Letcoach \u2014 Executive Business Coach, Keynote Speaker & Mastermind HTML5 Template",
+      "extracted_folder": "05-WEBSITE-TEMPLATES/envato-letcoach-executive-business-coach-html",
+      "store_zip": "prd_016-Letcoach-Executive-Coaching-and-Mastermind-Cloudflare-Template.zip",
+      "store_pdf": "16-Letcoach-Executive-Business-Coach-and-Mastermind-Website-Book.pdf"
+    }
+  ]
+}

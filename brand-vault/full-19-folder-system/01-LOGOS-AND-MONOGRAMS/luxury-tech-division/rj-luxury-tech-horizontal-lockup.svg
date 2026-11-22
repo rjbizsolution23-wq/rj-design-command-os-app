@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 140" width="720" height="140">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A98545"/><stop offset="45%" stop-color="#DFC48C"/><stop offset="100%" stop-color="#C5A059"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="140" rx="12" fill="#0A0B0E"/>
+  <rect x="20" y="20" width="100" height="100" rx="10" fill="#12141A" stroke="url(#g)" stroke-width="2"/>
+  <text x="70" y="85" text-anchor="middle" font-family="Taillevere, Cormorant Garamond, Georgia, serif" font-size="48" font-weight="600" fill="url(#g)">RJ</text>
+  <line x1="144" y1="28" x2="144" y2="112" stroke="#C5A059" stroke-width="1" opacity="0.5"/>
+  <text x="168" y="68" font-family="Taillevere, Cormorant Garamond, Georgia, serif" font-size="36" letter-spacing="2" fill="#FFFFFF">RJ BUSINESS SOLUTIONS</text>
+  <text x="170" y="98" font-family="Xenon Nue, Plus Jakarta Sans, sans-serif" font-size="12" font-weight="600" letter-spacing="5" fill="#DFC48C">LUXURY HIGH-TICKET TECH DIVISION</text>
+</svg>

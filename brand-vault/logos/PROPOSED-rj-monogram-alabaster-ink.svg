@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <rect width="240" height="240" rx="16" fill="#FAF8F5"/>
+  <rect x="14" y="14" width="212" height="212" rx="10" fill="none" stroke="#8A6A2F" stroke-width="1.5"/>
+  <text x="120" y="142" text-anchor="middle" font-family="Taillevere, Cormorant Garamond, Georgia, serif" font-size="92" font-weight="600" letter-spacing="4" fill="#0A0B0E">RJ</text>
+  <text x="120" y="182" text-anchor="middle" font-family="Xenon Nue, Plus Jakarta Sans, sans-serif" font-size="10.5" font-weight="600" letter-spacing="4.2" fill="#8A6A2F">BUSINESS SOLUTIONS</text>
+</svg>

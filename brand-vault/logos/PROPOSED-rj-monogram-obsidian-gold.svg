@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <defs>
+    <linearGradient id="champagne" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#B48E43"/>
+      <stop offset="50%" stop-color="#DFC48C"/>
+      <stop offset="100%" stop-color="#C5A059"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="16" fill="#0A0B0E"/>
+  <rect x="14" y="14" width="212" height="212" rx="10" fill="none" stroke="url(#champagne)" stroke-width="1.5" opacity="0.85"/>
+  <rect x="22" y="22" width="196" height="196" rx="6" fill="none" stroke="url(#champagne)" stroke-width="0.6" opacity="0.45"/>
+  <text x="120" y="142" text-anchor="middle" font-family="Taillevere, Cormorant Garamond, Georgia, serif" font-size="92" font-weight="600" letter-spacing="4" fill="url(#champagne)">RJ</text>
+  <text x="120" y="182" text-anchor="middle" font-family="Xenon Nue, Plus Jakarta Sans, sans-serif" font-size="10.5" font-weight="600" letter-spacing="4.2" fill="#DFC48C">BUSINESS SOLUTIONS</text>
+</svg>

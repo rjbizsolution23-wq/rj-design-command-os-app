@@ -1,0 +1,648 @@
+/* ==========================================================================
+ * RJ BUSINESS SOLUTIONS — SOVEREIGN LUXURY FONT VAULT (ENVATO LICENSED)
+ * Auto-generated global @font-face stylesheet (12 Families)
+ * ========================================================================== */
+
+/* --- Taillevere (Investor Luxury Didone Serif) --- */
+@font-face {
+  font-family: 'Taillevere';
+  src: url('/web/fonts/rj-luxury/taillevere/Taillevere-Regular.woff2') format('woff2'), url('/web/fonts/rj-luxury/taillevere/Taillevere-Regular.otf') format('opentype'), url('/web/fonts/rj-luxury/taillevere/Taillevere-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Taillevere';
+  src: url('/web/fonts/rj-luxury/taillevere/Taillevere-Bold.woff2') format('woff2'), url('/web/fonts/rj-luxury/taillevere/Taillevere-Bold.otf') format('opentype'), url('/web/fonts/rj-luxury/taillevere/Taillevere-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Auretha (Modern Luxury Serif) --- */
+@font-face {
+  font-family: 'Auretha';
+  src: url('/web/fonts/rj-luxury/auretha/GCAuretha-Thin.woff2') format('woff2'), url('/web/fonts/rj-luxury/auretha/GCAuretha-Thin.woff') format('woff'), url('/web/fonts/rj-luxury/auretha/GCAuretha-Thin.otf') format('opentype'), url('/web/fonts/rj-luxury/auretha/GCAuretha-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Auretha';
+  src: url('/web/fonts/rj-luxury/auretha/GCAuretha-ExtraLight.woff2') format('woff2'), url('/web/fonts/rj-luxury/auretha/GCAuretha-ExtraLight.woff') format('woff'), url('/web/fonts/rj-luxury/auretha/GCAuretha-ExtraLight.otf') format('opentype'), url('/web/fonts/rj-luxury/auretha/GCAuretha-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Auretha';
+  src: url('/web/fonts/rj-luxury/auretha/GCAuretha-Light.woff2') format('woff2'), url('/web/fonts/rj-luxury/auretha/GCAuretha-Light.woff') format('woff'), url('/web/fonts/rj-luxury/auretha/GCAuretha-Light.otf') format('opentype'), url('/web/fonts/rj-luxury/auretha/GCAuretha-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Auretha';
+  src: url('/web/fonts/rj-luxury/auretha/GCAuretha-Regular.woff2') format('woff2'), url('/web/fonts/rj-luxury/auretha/GCAuretha-Regular.woff') format('woff'), url('/web/fonts/rj-luxury/auretha/GCAuretha-Regular.otf') format('opentype'), url('/web/fonts/rj-luxury/auretha/GCAuretha-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Auretha';
+  src: url('/web/fonts/rj-luxury/auretha/GCAuretha-Medium.woff2') format('woff2'), url('/web/fonts/rj-luxury/auretha/GCAuretha-Medium.woff') format('woff'), url('/web/fonts/rj-luxury/auretha/GCAuretha-Medium.otf') format('opentype'), url('/web/fonts/rj-luxury/auretha/GCAuretha-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Auretha';
+  src: url('/web/fonts/rj-luxury/auretha/GCAuretha-SemiBold.woff2') format('woff2'), url('/web/fonts/rj-luxury/auretha/GCAuretha-SemiBold.woff') format('woff'), url('/web/fonts/rj-luxury/auretha/GCAuretha-SemiBold.otf') format('opentype'), url('/web/fonts/rj-luxury/auretha/GCAuretha-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Auretha';
+  src: url('/web/fonts/rj-luxury/auretha/GCAuretha-Bold.woff2') format('woff2'), url('/web/fonts/rj-luxury/auretha/GCAuretha-Bold.woff') format('woff'), url('/web/fonts/rj-luxury/auretha/GCAuretha-Bold.otf') format('opentype'), url('/web/fonts/rj-luxury/auretha/GCAuretha-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Auretha';
+  src: url('/web/fonts/rj-luxury/auretha/GCAuretha-ExtraBold.woff2') format('woff2'), url('/web/fonts/rj-luxury/auretha/GCAuretha-ExtraBold.woff') format('woff'), url('/web/fonts/rj-luxury/auretha/GCAuretha-ExtraBold.otf') format('opentype'), url('/web/fonts/rj-luxury/auretha/GCAuretha-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Auretha';
+  src: url('/web/fonts/rj-luxury/auretha/GC-Gretha-VF.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Siovanni (Luxury Display Serif) --- */
+@font-face {
+  font-family: 'Siovanni';
+  src: url('/web/fonts/rj-luxury/siovanni/Siovanni-ThinItalic.otf') format('opentype');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Siovanni';
+  src: url('/web/fonts/rj-luxury/siovanni/Siovanni-Thin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Siovanni';
+  src: url('/web/fonts/rj-luxury/siovanni/Siovanni-ExtraLightItalic.otf') format('opentype');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Siovanni';
+  src: url('/web/fonts/rj-luxury/siovanni/Siovanni-ExtraLight.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Siovanni';
+  src: url('/web/fonts/rj-luxury/siovanni/Siovanni-LightItalic.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Siovanni';
+  src: url('/web/fonts/rj-luxury/siovanni/Siovanni-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Siovanni';
+  src: url('/web/fonts/rj-luxury/siovanni/Siovanni-Italic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Siovanni';
+  src: url('/web/fonts/rj-luxury/siovanni/Siovanni-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Siovanni';
+  src: url('/web/fonts/rj-luxury/siovanni/Siovanni-MediumItalic.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Siovanni';
+  src: url('/web/fonts/rj-luxury/siovanni/Siovanni-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Siovanni';
+  src: url('/web/fonts/rj-luxury/siovanni/Siovanni-SemiBoldItalic.otf') format('opentype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Siovanni';
+  src: url('/web/fonts/rj-luxury/siovanni/Siovanni-SemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Siovanni';
+  src: url('/web/fonts/rj-luxury/siovanni/Siovanni-BoldItalic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Siovanni';
+  src: url('/web/fonts/rj-luxury/siovanni/Siovanni-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Pierre Robe (Cinematic Luxury Serif) --- */
+@font-face {
+  font-family: 'Pierre Robe';
+  src: url('/web/fonts/rj-luxury/pierre-robe/Pierre-Robe-Italic.woff2') format('woff2'), url('/web/fonts/rj-luxury/pierre-robe/Pierre-Robe-Italic.woff') format('woff'), url('/web/fonts/rj-luxury/pierre-robe/Pierre-Robe-Italic.otf') format('opentype'), url('/web/fonts/rj-luxury/pierre-robe/Pierre-Robe-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Pierre Robe';
+  src: url('/web/fonts/rj-luxury/pierre-robe/Pierre-Robe-Regular.woff2') format('woff2'), url('/web/fonts/rj-luxury/pierre-robe/Pierre-Robe-Regular.woff') format('woff'), url('/web/fonts/rj-luxury/pierre-robe/Pierre-Robe-Regular.otf') format('opentype'), url('/web/fonts/rj-luxury/pierre-robe/Pierre-Robe-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Editorial Luxury (High-Contrast Editorial Serif) --- */
+@font-face {
+  font-family: 'Editorial Luxury';
+  src: url('/web/fonts/rj-luxury/editorial/EditorialToday-ThinItalic.otf') format('opentype'), url('/web/fonts/rj-luxury/editorial/EditorialToday-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Editorial Luxury';
+  src: url('/web/fonts/rj-luxury/editorial/EditorialToday-Thin.otf') format('opentype'), url('/web/fonts/rj-luxury/editorial/EditorialToday-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Editorial Luxury';
+  src: url('/web/fonts/rj-luxury/editorial/EditorialToday-Italic.otf') format('opentype'), url('/web/fonts/rj-luxury/editorial/EditorialToday-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Editorial Luxury';
+  src: url('/web/fonts/rj-luxury/editorial/EditorialToday-Regular.otf') format('opentype'), url('/web/fonts/rj-luxury/editorial/EditorialToday-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Editorial Luxury';
+  src: url('/web/fonts/rj-luxury/editorial/EditorialToday-SemiBold.otf') format('opentype'), url('/web/fonts/rj-luxury/editorial/EditorialToday-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Editorial Luxury';
+  src: url('/web/fonts/rj-luxury/editorial/EditorialToday-BoldItalic.otf') format('opentype'), url('/web/fonts/rj-luxury/editorial/EditorialToday-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Editorial Luxury';
+  src: url('/web/fonts/rj-luxury/editorial/EditorialToday-Bold.otf') format('opentype'), url('/web/fonts/rj-luxury/editorial/EditorialToday-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Editorial Luxury';
+  src: url('/web/fonts/rj-luxury/editorial/EditorialToday-ExtraBoldItalic.otf') format('opentype'), url('/web/fonts/rj-luxury/editorial/EditorialToday-ExtraBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Editorial Luxury';
+  src: url('/web/fonts/rj-luxury/editorial/EditorialToday-ExtraBold.otf') format('opentype'), url('/web/fonts/rj-luxury/editorial/EditorialToday-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Swarsh Daisy (Eye-Catching Luxury Serif Display) --- */
+@font-face {
+  font-family: 'Swarsh Daisy';
+  src: url('/web/fonts/rj-luxury/swarsh-daisy/Swarsh-Daisy-Italic.woff2') format('woff2'), url('/web/fonts/rj-luxury/swarsh-daisy/Swarsh-Daisy-Italic.woff') format('woff'), url('/web/fonts/rj-luxury/swarsh-daisy/Swarsh-Daisy-Italic.otf') format('opentype'), url('/web/fonts/rj-luxury/swarsh-daisy/Swarsh-Daisy-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Swarsh Daisy';
+  src: url('/web/fonts/rj-luxury/swarsh-daisy/Swarsh-Daisy-Regular.woff2') format('woff2'), url('/web/fonts/rj-luxury/swarsh-daisy/Swarsh-Daisy-Regular.woff') format('woff'), url('/web/fonts/rj-luxury/swarsh-daisy/Swarsh-Daisy-Regular.otf') format('opentype'), url('/web/fonts/rj-luxury/swarsh-daisy/Swarsh-Daisy-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Morgen (Sculptural Luxury Display) --- */
+@font-face {
+  font-family: 'Morgen';
+  src: url('/web/fonts/rj-luxury/morgen/Morgen.woff2') format('woff2'), url('/web/fonts/rj-luxury/morgen/Morgen.woff') format('woff'), url('/web/fonts/rj-luxury/morgen/Morgen.otf') format('opentype'), url('/web/fonts/rj-luxury/morgen/Morgen.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Galante (Luxury Branding Family (9 Weights)) --- */
+@font-face {
+  font-family: 'Galante';
+  src: url('/web/fonts/rj-luxury/galante/Galante-Thin.woff2') format('woff2'), url('/web/fonts/rj-luxury/galante/Galante-Thin.woff') format('woff'), url('/web/fonts/rj-luxury/galante/Galante-Thin.otf') format('opentype'), url('/web/fonts/rj-luxury/galante/Galante-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Galante';
+  src: url('/web/fonts/rj-luxury/galante/Galante-ExtraLight.woff2') format('woff2'), url('/web/fonts/rj-luxury/galante/Galante-ExtraLight.woff') format('woff'), url('/web/fonts/rj-luxury/galante/Galante-ExtraLight.otf') format('opentype'), url('/web/fonts/rj-luxury/galante/Galante-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Galante';
+  src: url('/web/fonts/rj-luxury/galante/Galante-Light.woff2') format('woff2'), url('/web/fonts/rj-luxury/galante/Galante-Light.woff') format('woff'), url('/web/fonts/rj-luxury/galante/Galante-Light.otf') format('opentype'), url('/web/fonts/rj-luxury/galante/Galante-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Galante';
+  src: url('/web/fonts/rj-luxury/galante/Galante-Regular.woff2') format('woff2'), url('/web/fonts/rj-luxury/galante/Galante-Regular.woff') format('woff'), url('/web/fonts/rj-luxury/galante/Galante-Regular.otf') format('opentype'), url('/web/fonts/rj-luxury/galante/Galante-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Galante';
+  src: url('/web/fonts/rj-luxury/galante/Galante-Medium.woff2') format('woff2'), url('/web/fonts/rj-luxury/galante/Galante-Medium.woff') format('woff'), url('/web/fonts/rj-luxury/galante/Galante-Medium.otf') format('opentype'), url('/web/fonts/rj-luxury/galante/Galante-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Galante';
+  src: url('/web/fonts/rj-luxury/galante/Galante-SemiBold.woff2') format('woff2'), url('/web/fonts/rj-luxury/galante/Galante-SemiBold.woff') format('woff'), url('/web/fonts/rj-luxury/galante/Galante-SemiBold.otf') format('opentype'), url('/web/fonts/rj-luxury/galante/Galante-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Galante';
+  src: url('/web/fonts/rj-luxury/galante/Galante-Bold.woff2') format('woff2'), url('/web/fonts/rj-luxury/galante/Galante-Bold.woff') format('woff'), url('/web/fonts/rj-luxury/galante/Galante-Bold.otf') format('opentype'), url('/web/fonts/rj-luxury/galante/Galante-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Galante';
+  src: url('/web/fonts/rj-luxury/galante/Galante-ExtraBold.woff2') format('woff2'), url('/web/fonts/rj-luxury/galante/Galante-ExtraBold.woff') format('woff'), url('/web/fonts/rj-luxury/galante/Galante-ExtraBold.otf') format('opentype'), url('/web/fonts/rj-luxury/galante/Galante-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Galante';
+  src: url('/web/fonts/rj-luxury/galante/Galante-Black.woff2') format('woff2'), url('/web/fonts/rj-luxury/galante/Galante-Black.woff') format('woff'), url('/web/fonts/rj-luxury/galante/Galante-Black.otf') format('opentype'), url('/web/fonts/rj-luxury/galante/Galante-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Grift (Modern Geometric Sans-Serif) --- */
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-ThinItalic.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-ThinItalic.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-ThinItalic.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-Thin.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-Thin.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-Thin.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-ExtraLightItalic.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-ExtraLightItalic.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-ExtraLightItalic.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-ExtraLightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-ExtraLight.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-ExtraLight.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-ExtraLight.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-LightItalic.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-LightItalic.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-LightItalic.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-Light.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-Light.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-Light.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-Italic.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-Italic.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-Italic.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-Regular.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-Regular.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-Regular.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-MediumItalic.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-MediumItalic.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-MediumItalic.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-Medium.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-Medium.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-Medium.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-SemiBoldItalic.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-SemiBoldItalic.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-SemiBoldItalic.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-SemiBold.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-SemiBold.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-SemiBold.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-BoldItalic.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-BoldItalic.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-BoldItalic.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-Bold.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-Bold.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-Bold.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-ExtraBoldItalic.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-ExtraBoldItalic.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-ExtraBoldItalic.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-ExtraBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-ExtraBold.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-ExtraBold.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-ExtraBold.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-BlackItalic.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-BlackItalic.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-BlackItalic.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-Black.woff2') format('woff2'), url('/web/fonts/rj-luxury/grift/Grift-Black.woff') format('woff'), url('/web/fonts/rj-luxury/grift/Grift-Black.otf') format('opentype'), url('/web/fonts/rj-luxury/grift/Grift-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('/web/fonts/rj-luxury/grift/Grift-Variable-VF.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Xenon Nue (Neo-Grotesque Sans-Serif (18 Styles)) --- */
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Thin_Italic.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Thin_Italic.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Thin_Italic.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Thin_Italic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Thin.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Thin.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Thin.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraLight_Italic.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraLight_Italic.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraLight_Italic.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraLight_Italic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraLight.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraLight.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraLight.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Light_Italic.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Light_Italic.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Light_Italic.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Light_Italic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Light.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Light.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Light.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Regular_Italic.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Regular_Italic.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Regular_Italic.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Regular_Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Regular.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Regular.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Regular.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Medium_Italic.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Medium_Italic.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Medium_Italic.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Medium_Italic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Medium.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Medium.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Medium.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-SemiBold_Italic.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-SemiBold_Italic.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-SemiBold_Italic.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-SemiBold_Italic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-SemiBold.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-SemiBold.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-SemiBold.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Bold_Italic.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Bold_Italic.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Bold_Italic.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Bold_Italic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Bold.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Bold.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Bold.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraBold_Italic.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraBold_Italic.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraBold_Italic.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraBold_Italic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraBold.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraBold.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraBold.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Heavy_Italic.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Heavy_Italic.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Heavy_Italic.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Heavy_Italic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Xenon Nue';
+  src: url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Heavy.woff2') format('woff2'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Heavy.woff') format('woff'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Heavy.otf') format('opentype'), url('/web/fonts/rj-luxury/xenon-nue/XenonNue-Heavy.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Nority (Inktrap Bold Display) --- */
+@font-face {
+  font-family: 'Nority';
+  src: url('/web/fonts/rj-luxury/nority/Nority-Display.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Vank (Strong Bold Condensed Display) --- */
+@font-face {
+  font-family: 'Vank';
+  src: url('/web/fonts/rj-luxury/vank/GC-Vank.woff2') format('woff2'), url('/web/fonts/rj-luxury/vank/GC-Vank.woff') format('woff'), url('/web/fonts/rj-luxury/vank/GC-Vank.otf') format('opentype'), url('/web/fonts/rj-luxury/vank/GC-Vank.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  /* RJ Sovereign Luxury Typography Tokens */
+  --font-rj-luxury-didone: 'Taillevere', 'Cormorant Garamond', Georgia, serif;
+  --font-rj-luxury-serif: 'Auretha', 'Siovanni', 'Cormorant Garamond', Georgia, serif;
+  --font-rj-editorial-serif: 'Siovanni', 'Pierre Robe', 'Editorial Luxury', Georgia, serif;
+  --font-rj-prestige-display: 'Galante', 'Swarsh Daisy', 'Morgen', Georgia, serif;
+  --font-rj-sans: 'Xenon Nue', 'Grift', 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-rj-geometric-sans: 'Grift', 'Xenon Nue', 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-rj-impact-display: 'Vank', 'Nority', system-ui, sans-serif;
+}

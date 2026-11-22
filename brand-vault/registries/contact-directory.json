@@ -1,0 +1,39 @@
+{
+  "company": "RJ Business Solutions",
+  "founder": "Rick Jefferson",
+  "founder_title": "Founder & Managing Principal",
+  "official_websites": {
+    "corporate": "https://rjbusinesssolutions.org",
+    "executive_brand": "https://rickjefferson.com",
+    "client_portal": "https://rickjefferson.com/portal/",
+    "credit_intelligence": "https://hlp-credit1.pages.dev/"
+  },
+  "primary_email": "support@rjbusinesssolutions.org",
+  "executive_email": "rick@rickjefferson.com",
+  "telephone": "(817) 587-4783",
+  "addresses": {
+    "dfw_texas_hq": "99 Regency Pkwy., Suite 305, Mansfield, TX 76063",
+    "new_mexico_corporate": "1342 NM 333, Tijeras, New Mexico 87059"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/rick-jefferson-314998235",
+    "x_twitter": "https://twitter.com/ricksolutions1",
+    "tiktok": "https://www.tiktok.com/@rick_jeff_solution",
+    "github": "https://github.com/rjbizsolution23-wq",
+    "facebook": "NOT LISTED ON PUBLIC SITES (VERIFY IF ACTIVE)",
+    "instagram": "NOT LISTED ON PUBLIC SITES (VERIFY IF ACTIVE)",
+    "youtube": "NOT LISTED ON PUBLIC SITES (VERIFY IF ACTIVE)"
+  },
+  "primary_cta": "Book an Executive Strategy Consultation",
+  "booking_links": {
+    "executive_session": "https://rickjefferson.com/executive-session/",
+    "corporate_contact": "https://rjbusinesssolutions.org/contact.html",
+    "executive_contact": "https://rickjefferson.com/contact/"
+  },
+  "settlement": {
+    "zelle": "rjbizsolution23@gmail.com",
+    "wire_bank": "Wells Fargo",
+    "wire_routing": "121000248"
+  },
+  "legal_footer": "\u00a9 2026 RJ Business Solutions. All rights reserved. DFW HQ: 99 Regency Pkwy., Suite 305, Mansfield, TX 76063 \u00b7 Corporate: 1342 NM 333, Tijeras, NM 87059 \u00b7 (817) 587-4783 \u00b7 support@rjbusinesssolutions.org. RJ Business Solutions provides institutional software and automation technology. Not financial, investment, or legal advice."
+}

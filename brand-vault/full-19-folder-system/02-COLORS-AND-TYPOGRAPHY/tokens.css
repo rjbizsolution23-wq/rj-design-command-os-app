@@ -1,0 +1,151 @@
+/* ═══════════════════════════════════════════════════════════════════
+   RJ Business Solutions · Sovereign Luxury Investor Tokens · v2.0
+   Institutional Private Wealth & Billion-Dollar Capital Aesthetic
+   Import BEFORE brand.css for full token coverage
+   ═══════════════════════════════════════════════════════════════════ */
+
+:root {
+  /* ─── Sovereign Brand Palette ─── */
+  --rj-obsidian:    #0A0B0E;
+  --rj-vault:       #12141A;
+  --rj-graphite:    #1C2029;
+  --rj-gold:        #C5A059;
+  --rj-champagne:   #DFC48C;
+  --rj-bronze:      #8A6A2F;
+  --rj-ivory:       #FFFFFF;
+  --rj-alabaster:   #FAF8F5;
+  --rj-parchment:   #F3EFE6;
+  --rj-gold-border: #E4D9C3;
+  --rj-stone-line:  #E6E2DA;
+
+  /* ─── Backward-Compatible Legacy Aliases (Auto-Upgraded to Sovereign Luxury) ─── */
+  --rj-blue:   var(--rj-gold);
+  --rj-sky:    var(--rj-champagne);
+  --rj-deep:   var(--rj-vault);
+  --rj-navy:   var(--rj-obsidian);
+  --rj-white:  var(--rj-ivory);
+  --rj-soft:   var(--rj-alabaster);
+  --rj-light:  var(--rj-parchment);
+  --rj-border: var(--rj-gold-border);
+  --rj-muted:  var(--rj-parchment);
+  --rj-line:   var(--rj-stone-line);
+
+  /* ─── Text ─── */
+  --rj-ink:         #111318;
+  --rj-text:        #111318;
+  --rj-muted-text:  #4A4E5A;
+  --rj-subtle-text: #7C7A74;
+  --rj-inverse:     #F5F2EB;
+
+  /* ─── Semantic Wealth Indicators ─── */
+  --rj-emerald:    #1B5E4B;
+  --rj-success:    #1B5E4B;
+  --rj-success-bg: #EBF5F0;
+  --rj-amber:      #9A6B26;
+  --rj-warning:    #9A6B26;
+  --rj-warning-bg: #FBF4E6;
+  --rj-crimson:    #8C2D36;
+  --rj-danger:     #8C2D36;
+  --rj-danger-bg:  #FBECEF;
+  --rj-info:       #8A6A2F;
+  --rj-info-bg:    #F3EFE6;
+
+  /* ─── Dark Vault Surfaces ─── */
+  --rj-dark-surface:    #0A0B0E;
+  --rj-dark-surface-2:  #12141A;
+  --rj-dark-surface-3:  #181B23;
+  --rj-dark-border:     rgba(197, 160, 89, 0.22);
+  --rj-dark-border-sub: rgba(255, 255, 255, 0.08);
+  --rj-dark-text:       #F5F2EB;
+  --rj-dark-muted:      #B3AFA6;
+  --rj-dark-subtle:     #7D7A72;
+
+  /* ─── Institutional Data Viz Palette ─── */
+  --rj-series-1: #C5A059;
+  --rj-series-2: #1B5E4B;
+  --rj-series-3: #2A3347;
+  --rj-series-4: #DFC48C;
+  --rj-series-5: #8A6A2F;
+  --rj-series-6: #5C6475;
+  --rj-pos:      #1B5E4B;
+  --rj-neg:      #8C2D36;
+
+  /* ─── Gradients ─── */
+  --grad-dark:    linear-gradient(135deg, #0A0B0E 0%, #141720 55%, #1D212E 100%);
+  --grad-gold:    linear-gradient(135deg, #B48E43 0%, #D9BC82 50%, #C5A059 100%);
+  --grad-primary: linear-gradient(135deg, #B48E43 0%, #D9BC82 50%, #C5A059 100%);
+  --grad-light:   linear-gradient(180deg, #FFFFFF 0%, #F7F4EE 100%);
+  --grad-success: linear-gradient(135deg, #1B5E4B 0%, #134436 100%);
+
+  /* ─── Typography Families ─── */
+  --font-display:  "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  --font-head:     "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  --font-body:     "Plus Jakarta Sans", "Manrope", system-ui, sans-serif;
+  --font-num:      "Manrope", "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-overline: "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-mono:     "Plus Jakarta Sans", system-ui, sans-serif;
+
+  /* ─── Type Scale ─── */
+  --fs-xs:   10px;
+  --fs-sm:   12px;
+  --fs-base: 14px;
+  --fs-md:   15px;
+  --fs-lg:   18px;
+  --fs-xl:   22px;
+  --fs-2xl:  28px;
+  --fs-3xl:  36px;
+  --fs-4xl:  48px;
+  --fs-5xl:  60px;
+  --fs-6xl:  76px;
+  --fs-hero: 96px;
+
+  /* ─── Spacing Scale ─── */
+  --sp-1:  4px;
+  --sp-2:  8px;
+  --sp-3:  12px;
+  --sp-4:  16px;
+  --sp-5:  20px;
+  --sp-6:  24px;
+  --sp-8:  32px;
+  --sp-10: 40px;
+  --sp-12: 48px;
+  --sp-16: 64px;
+  --sp-20: 80px;
+  --sp-24: 96px;
+
+  /* ─── Architectural Radius ─── */
+  --r-none: 0;
+  --r-sm:   2px;
+  --r-md:   4px;
+  --r-lg:   8px;
+  --r-xl:   12px;
+  --r-full: 9999px;
+
+  /* ─── Hairline Borders ─── */
+  --bd-hairline:  1px solid var(--rj-stone-line);
+  --bd-gold:      1px solid var(--rj-gold-border);
+  --bd-dark-gold: 1px solid rgba(197, 160, 89, 0.24);
+  --bd-focus:     2px solid var(--rj-gold);
+
+  /* ─── Whisper Elevation Shadows ─── */
+  --sh-sm:   0 2px 6px rgba(10, 11, 14, 0.05);
+  --sh-md:   0 12px 36px rgba(10, 11, 14, 0.06);
+  --sh-lg:   0 24px 60px rgba(10, 11, 14, 0.14);
+  --sh-gold: 0 10px 28px rgba(197, 160, 89, 0.22);
+
+  /* ─── Motion ─── */
+  --dur-fast:   160ms;
+  --dur-base:   260ms;
+  --dur-slow:   420ms;
+  --dur-reveal: 680ms;
+  --ease-luxury: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-std:    cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

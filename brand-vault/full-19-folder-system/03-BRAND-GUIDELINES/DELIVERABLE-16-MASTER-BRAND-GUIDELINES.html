@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>RJ Business Solutions — Sovereign Luxury Brand Guidelines v2.0</title>
+<link rel="stylesheet" href="../02-COLORS-AND-TYPOGRAPHY/rj-luxury-fonts.css" />
+<style>
+  :root {
+    --obsidian: #0A0B0E; --vault: #12141A; --graphite: #1C2029;
+    --gold: #C5A059; --champagne: #DFC48C; --bronze: #8A6A2F;
+    --alabaster: #FAF8F5; --ivory: #FFFFFF; --parchment: #F3EFE6;
+    --gold-border: #E4D9C3; --stone-line: #E6E2DA;
+    --ink: #111318; --muted: #4A4E5A; --emerald: #1B5E4B;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--alabaster); color: var(--ink); font-family: 'Xenon Nue', 'Plus Jakarta Sans', system-ui, sans-serif; line-height: 1.65; }
+  .hero { background: linear-gradient(135deg, #0A0B0E 0%, #141720 55%, #1D212E 100%); color: #F5F2EB; padding: 72px 48px; border-bottom: 2px solid var(--gold); }
+  .wrap { max-width: 1120px; margin: 0 auto; }
+  .seal { display: inline-block; padding: 6px 14px; font-size: 10px; font-weight: 600; letter-spacing: 0.22em; text-transform: uppercase; border: 1px solid rgba(197,160,89,0.45); color: var(--champagne); background: rgba(197,160,89,0.08); margin-bottom: 24px; }
+  .seal-light { background: var(--parchment); color: var(--bronze); border: 1px solid var(--gold-border); }
+  .hero-top { display: flex; align-items: center; gap: 24px; margin-bottom: 28px; }
+  .hero-logo { width: 76px; height: 76px; border-radius: 8px; border: 1px solid rgba(197,160,89,0.5); object-fit: cover; }
+  h1 { font-family: 'Taillevere', 'Cormorant Garamond', Georgia, serif; font-size: 56px; font-weight: 400; letter-spacing: -0.015em; line-height: 1.06; color: #FFFFFF; }
+  .subtitle { color: #B3AFA6; font-size: 17px; max-width: 720px; margin-top: 16px; }
+  .meta-bar { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; background: var(--ivory); border: 1px solid var(--gold-border); padding: 20px 28px; margin-top: -28px; position: relative; box-shadow: 0 12px 36px rgba(10,11,14,0.06); }
+  .meta-item label { display: block; font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--bronze); font-weight: 600; }
+  .meta-item span { font-size: 14px; font-weight: 600; color: var(--ink); }
+  section { padding: 56px 48px; }
+  h2 { font-family: 'Auretha', 'Cormorant Garamond', Georgia, serif; font-size: 36px; font-weight: 500; margin: 12px 0 24px; color: var(--ink); }
+  .grid-4 { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 18px; }
+  .swatch { background: var(--ivory); border: 1px solid var(--stone-line); overflow: hidden; }
+  .swatch-color { height: 96px; }
+  .swatch-info { padding: 14px 16px; }
+  .swatch-info strong { display: block; font-size: 14px; }
+  .swatch-info code { font-family: 'Grift', monospace; font-size: 12px; color: var(--bronze); }
+  .type-card { background: var(--ivory); border: 1px solid var(--gold-border); padding: 28px; margin-bottom: 16px; }
+  .specimen { font-size: 38px; line-height: 1.15; margin: 10px 0 8px; }
+  .photo-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .photo-grid img { width: 100%; height: 220px; object-fit: cover; border: 1px solid var(--gold-border); }
+  footer { background: var(--obsidian); color: #B3AFA6; padding: 40px 48px; border-top: 1px solid var(--gold); font-size: 12px; }
+  @media print { body { background: #FFFFFF; } section { padding: 28px 24px; page-break-inside: avoid; } }
+</style>
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <div class="seal">PRIVATE CAPITAL &amp; INSTITUTIONAL ARCHITECTURE · BRAND GUIDELINES v2.0</div>
+      <div class="hero-top">
+        <img class="hero-logo" src="../01-LOGOS-AND-MONOGRAMS/luxury-tech-division/rj-luxury-black-gold-logo-primary.png" alt="RJ Business Solutions Official Logo" />
+        <div>
+          <h1>RJ Business Solutions</h1>
+          <p class="subtitle">Sovereign Luxury Brand Ecosystem — Authoritative Visual Identity, 12-Family Licensed Typography Vault, and Cross-Platform Design Standards.</p>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <div class="meta-bar">
+      <div class="meta-item"><label>Brand Entity</label><span>RJ Business Solutions</span></div>
+      <div class="meta-item"><label>Managing Principal</label><span>Rick Jefferson</span></div>
+      <div class="meta-item"><label>Edition Date</label><span>November 20, 2026</span></div>
+      <div class="meta-item"><label>Classification</label><span>Sovereign Master Standard</span></div>
+    </div>
+  </div>
+
+  <section class="wrap">
+    <span class="seal seal-light">01 · COLOR SYSTEM</span>
+    <h2>Sovereign Luxury Investor Palette</h2>
+    <div class="grid-4">
+      <div class="swatch"><div class="swatch-color" style="background:#0A0B0E"></div><div class="swatch-info"><strong>Sovereign Obsidian</strong><code>#0A0B0E</code></div></div>
+      <div class="swatch"><div class="swatch-color" style="background:#12141A"></div><div class="swatch-info"><strong>Charcoal Vault</strong><code>#12141A</code></div></div>
+      <div class="swatch"><div class="swatch-color" style="background:#C5A059"></div><div class="swatch-info"><strong>Burnished Champagne Gold</strong><code>#C5A059</code></div></div>
+      <div class="swatch"><div class="swatch-color" style="background:#DFC48C"></div><div class="swatch-info"><strong>Brushed Pale Gold</strong><code>#DFC48C</code></div></div>
+      <div class="swatch"><div class="swatch-color" style="background:#8A6A2F"></div><div class="swatch-info"><strong>Deep Antique Bronze</strong><code>#8A6A2F</code></div></div>
+      <div class="swatch"><div class="swatch-color" style="background:#FAF8F5; border-bottom:1px solid #E6E2DA"></div><div class="swatch-info"><strong>Warm Alabaster</strong><code>#FAF8F5</code></div></div>
+      <div class="swatch"><div class="swatch-color" style="background:#F3EFE6"></div><div class="swatch-info"><strong>Parchment Mist</strong><code>#F3EFE6</code></div></div>
+      <div class="swatch"><div class="swatch-color" style="background:#1B5E4B"></div><div class="swatch-info"><strong>Institutional Emerald</strong><code>#1B5E4B</code></div></div>
+    </div>
+  </section>
+
+  <section class="wrap">
+    <span class="seal seal-light">02 · TYPOGRAPHY VAULT (12 ENVATO FAMILIES)</span>
+    <h2>Licensed Sovereign Typography</h2>
+    <div class="type-card">
+      <span class="seal seal-light">HERO DIDONE SERIF · TAILLEVERE</span>
+      <div class="specimen" style="font-family:'Taillevere', serif;">Institutional Capital &amp; Credit Architecture</div>
+      <p style="color:var(--muted)">Primary display headline typeface for flagship web heroes, offering memoranda, and executive covers.</p>
+    </div>
+    <div class="type-card">
+      <span class="seal seal-light">LUXURY EDITORIAL SERIF · AURETHA &amp; SIOVANNI</span>
+      <div class="specimen" style="font-family:'Auretha', serif;">Precision Systems Built For Sovereign Scale</div>
+      <p style="color:var(--muted)">Multi-weight editorial serifs (Thin–Extrabold + Italics) for H1–H3 headings and investor deck narratives.</p>
+    </div>
+    <div class="type-card">
+      <span class="seal seal-light">PRESTIGE STATEMENT · GALANTE &amp; SWARSH DAISY</span>
+      <div class="specimen" style="font-family:'Galante', serif;">RJ Business Solutions — Private Wealth Systems</div>
+      <p style="color:var(--muted)">9-weight luxury branding family &amp; high-contrast display accents for high-conviction brand statements.</p>
+    </div>
+    <div class="type-card">
+      <span class="seal seal-light">INSTITUTIONAL UI &amp; DATA · XENON NUE &amp; GRIFT</span>
+      <div class="specimen" style="font-family:'Xenon Nue', sans-serif; font-size:26px;">$147,000 MRR · 99.98% Uptime · 2,847+ Active Members</div>
+      <p style="color:var(--muted)">18-style Neo-Grotesque and Geometric Sans-Serif families for body copy, dashboards, and tabular financials.</p>
+    </div>
+  </section>
+
+  <section class="wrap">
+    <span class="seal seal-light">03 · EXECUTIVE PHOTOGRAPHY</span>
+    <h2>Verified Principal Studio Library</h2>
+    <div class="photo-grid">
+      <img src="../10-PHOTOGRAPHY-AND-ILLUSTRATIONS/rick-hero.jpg" alt="Rick Jefferson Hero" />
+      <img src="../10-PHOTOGRAPHY-AND-ILLUSTRATIONS/rick-portrait.jpg" alt="Rick Jefferson Portrait" />
+      <img src="../10-PHOTOGRAPHY-AND-ILLUSTRATIONS/rick-signing.jpg" alt="Rick Jefferson Signing" />
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap">
+      <strong>© 2026 RJ Business Solutions.</strong> DFW HQ: 99 Regency Pkwy., Suite 305, Mansfield, TX 76063 · Corporate: 1342 NM 333, Tijeras, NM 87059 · (817) 587-4783 · rick@rickjefferson.com · support@rjbusinesssolutions.org · rjbusinesssolutions.org · rickjefferson.com<br/>
+      RJ Business Solutions provides institutional software and automation technology. Not financial, investment, or legal advice.
+    </div>
+  </footer>
+</body>
+</html>

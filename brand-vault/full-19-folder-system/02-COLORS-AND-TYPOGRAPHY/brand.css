@@ -1,0 +1,93 @@
+/* RJ Business Solutions — Sovereign Luxury Investor Brand System (v2.0)
+   Used by every executive document, investor portal, and capital asset */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Manrope:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
+:root {
+  --rj-obsidian:    #0A0B0E;
+  --rj-vault:       #12141A;
+  --rj-graphite:    #1C2029;
+  --rj-gold:        #C5A059;
+  --rj-champagne:   #DFC48C;
+  --rj-bronze:      #8A6A2F;
+  --rj-ivory:       #FFFFFF;
+  --rj-alabaster:   #FAF8F5;
+  --rj-parchment:   #F3EFE6;
+  --rj-gold-border: #E4D9C3;
+  --rj-stone-line:  #E6E2DA;
+  --rj-ink:         #111318;
+  --rj-muted-text:  #4A4E5A;
+  --rj-emerald:     #1B5E4B;
+  --rj-amber:       #9A6B26;
+  --rj-crimson:     #8C2D36;
+
+  /* Legacy compatibility aliases */
+  --rj-blue:   var(--rj-gold);
+  --rj-sky:    var(--rj-champagne);
+  --rj-deep:   var(--rj-vault);
+  --rj-navy:   var(--rj-obsidian);
+  --rj-white:  var(--rj-ivory);
+  --rj-soft:   var(--rj-alabaster);
+  --rj-light:  var(--rj-parchment);
+  --rj-border: var(--rj-gold-border);
+  --rj-text:   var(--rj-ink);
+  --rj-line:   var(--rj-stone-line);
+
+  --font-display:  "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  --font-head:     "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  --font-body:     "Plus Jakarta Sans", "Manrope", system-ui, sans-serif;
+  --font-num:      "Manrope", "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-overline: "Plus Jakarta Sans", system-ui, sans-serif;
+
+  --grad-dark:    linear-gradient(135deg, #0A0B0E 0%, #141720 55%, #1D212E 100%);
+  --grad-gold:    linear-gradient(135deg, #B48E43 0%, #D9BC82 50%, #C5A059 100%);
+  --grad-primary: linear-gradient(135deg, #B48E43 0%, #D9BC82 50%, #C5A059 100%);
+  --grad-light:   linear-gradient(180deg, #FFFFFF 0%, #F7F4EE 100%);
+
+  --logo-url: url("https://storage.googleapis.com/msgsndr/qQnxRHDtyx0uydPd5sRl/media/67eb83c5e519ed689430646b.jpeg");
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  font-family: var(--font-body);
+  color: var(--rj-ink);
+  background: var(--rj-alabaster);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, .display-serif {
+  font-family: var(--font-display);
+  font-weight: 500;
+  letter-spacing: -0.015em;
+}
+
+.tabular-nums {
+  font-family: var(--font-num);
+  font-variant-numeric: tabular-nums;
+}
+
+.seal, .overline, .mono {
+  font-family: var(--font-overline);
+  font-size: 10px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.glow-gold::before {
+  content: "";
+  position: absolute;
+  right: -140px; top: -140px;
+  width: 560px; height: 560px;
+  background: radial-gradient(circle, rgba(197, 160, 89, 0.16) 0%, transparent 65%);
+  filter: blur(48px);
+  pointer-events: none;
+}
+.glow-gold > * { position: relative; z-index: 1; }
+
+@media print {
+  body { background: #FFFFFF; color: #111318; }
+  .no-print { display: none !important; }
+  .page-break { page-break-after: always; }
+}

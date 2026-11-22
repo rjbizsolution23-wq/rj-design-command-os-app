@@ -1,0 +1,562 @@
+<!doctype html>
+<html lang="en" data-theme="vault">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>RJ Business Solutions — Sovereign Design System &amp; Creative Command OS v2.1</title>
+  <meta name="description" content="Production-hardened billion-dollar luxury investor design system, AI Creative Director, Industry Intelligence Registry, protected settlement vault, and WCAG 2.2 quality lab.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="/fonts/rj-luxury/rj-luxury-fonts.css">
+  <link rel="stylesheet" href="/app.css">
+  <link rel="icon" type="image/svg+xml" href="/vault/logos/PROPOSED-rj-favicon.svg">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+<div class="shell">
+  <aside class="sidebar" aria-label="Workspace navigation">
+    <a class="identity" href="/">
+      <img id="brand-logo-nav" class="brand-crest" src="/vault/logos/rj-luxury-black-gold-logo-primary.png" alt="RJ Business Solutions">
+      <div>
+        <strong id="brand-name-nav">RJ BUSINESS SOLUTIONS</strong>
+        <small>SOVEREIGN DESIGN OS · v2.1</small>
+      </div>
+    </a>
+
+    <div class="side-label">INSTITUTIONAL SUITE</div>
+    <nav aria-label="Primary">
+      <button class="navitem active" data-screen="overview">Executive Overview</button>
+      <button class="navitem" data-screen="brandkit">Global Brand Kit <span class="gold-pill">v2.1</span></button>
+      <button class="navitem" data-screen="vault">Envato &amp; Asset Vault <span class="gold-pill">17</span></button>
+      <button class="navitem" data-screen="orchestrator">AI Director &amp; Sectors <span id="dept-count">08</span></button>
+      <button class="navitem" data-screen="production">Production Studio <span class="gold-pill">v3.0</span></button>
+      <button class="navitem" data-screen="components">Design System UI <span id="component-count">08</span></button>
+      <button class="navitem" data-screen="studio">Visual Directions <span id="style-count">12</span></button>
+      <button class="navitem" data-screen="projects">Client Mandates <span id="project-count">0</span></button>
+      <button class="navitem" data-screen="settlements">Settlement &amp; Audit Vault</button>
+      <button class="navitem" data-screen="quality">Quality &amp; WCAG 2.2 Lab</button>
+      <button class="navitem" data-screen="integrations">Architecture &amp; Security</button>
+    </nav>
+
+    <div class="sidebar-bottom">
+      <div class="signal"><span class="signal-dot"></span> <span id="auth-status-label">SESSION: PUBLIC READ</span></div>
+      <p>
+        <strong id="sidebar-firm">RJ Business Solutions</strong><br>
+        <span>Managing Principal: <em id="sidebar-principal">Rick Jefferson</em></span>
+      </p>
+    </div>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <div>
+        <span class="overline" id="topbar-subline">PRIVATE CAPITAL &amp; INSTITUTIONAL ARCHITECTURE</span>
+        <h1 id="page-title">Executive Overview</h1>
+      </div>
+      <div class="topbar-actions">
+        <button id="auth-btn" class="button outline" type="button">Sign In (RBAC)</button>
+        <button id="theme-toggle" class="button ghost" type="button" title="Switch between Vault Dark and Alabaster Light">Alabaster Mode</button>
+        <a id="download-pdf-top" class="button outline" href="/api/brand/export/pdf" target="_blank" rel="noopener">Render PDF ↗</a>
+        <button id="new-project-top" class="button gold" type="button">+ New Mandate</button>
+      </div>
+    </header>
+
+    <div id="alert" role="status" aria-live="polite" class="alert hidden"></div>
+
+    <!-- 1. EXECUTIVE OVERVIEW -->
+    <section id="overview" class="screen active">
+      <div class="hero">
+        <div class="hero-copy">
+          <span class="kicker">SOVEREIGN ENTERPRISE EDITION · CONTRACT v2.1.0</span>
+          <h2>Institutional authority,<br><em>verified from brief to build.</em></h2>
+          <p>The hardened luxury design system, 8-department AI Creative Director, Industry Intelligence Registry, and protected investor document engine for RJ Business Solutions. Secured with scrypt RBAC, immutable audit trails, and real Headless Chrome PDF rendering.</p>
+          <div class="hero-actions">
+            <button class="button gold" data-goto="brandkit" type="button">Global Brand Kit</button>
+            <button class="button outline-light" data-goto="orchestrator" type="button">AI Creative Director</button>
+            <button class="button ghost-light" data-goto="settlements" type="button">Settlement &amp; Audit Vault ↗</button>
+          </div>
+        </div>
+        <div class="hero-monogram" aria-hidden="true">
+          <div class="monogram-ring outer"></div>
+          <div class="monogram-ring inner"></div>
+          <div class="monogram-seal">
+            <span>RJ</span>
+            <small>CONTRACT v2.1</small>
+          </div>
+        </div>
+      </div>
+
+      <div class="stat-grid">
+        <article class="stat">
+          <span>DESIGN CONTRACT</span>
+          <strong class="serif-sm" id="overview-contract">v2.1.0 Valid</strong>
+          <small>Schema + WCAG AA + No Template Bank Data</small>
+        </article>
+        <article class="stat">
+          <span>AI CREATIVE TEAMS</span>
+          <strong class="tabular-nums">08 / 56</strong>
+          <small>Executable departments &amp; specialists</small>
+        </article>
+        <article class="stat">
+          <span>INDUSTRY PROFILES</span>
+          <strong class="tabular-nums" id="overview-industries-count">08</strong>
+          <small>Client-specific sector palettes &amp; rules</small>
+        </article>
+        <article class="stat">
+          <span>ACTIVE MANDATES</span>
+          <strong class="tabular-nums" id="overview-projects">0</strong>
+          <small>RBAC-protected SQLite workspace</small>
+        </article>
+      </div>
+
+      <div class="section-heading">
+        <div>
+          <span class="overline">FLAGSHIP VISUAL TERRITORIES</span>
+          <h3>Curated Luxury &amp; Institutional Directions</h3>
+        </div>
+        <button class="text-button" data-goto="studio" type="button">View all 12 directions ↗</button>
+      </div>
+      <div class="style-grid" id="overview-styles"></div>
+    </section>
+
+    <!-- 2. GLOBAL BRAND KIT SETTINGS -->
+    <section id="brandkit" class="screen">
+      <div class="section-heading">
+        <div>
+          <span class="overline">VERSIONED DESIGN CONTRACT · v2.1.0</span>
+          <h3>RJ Business Solutions Global Brand Kit</h3>
+        </div>
+        <div class="export-strip">
+          <a class="button outline" href="/api/brand/export/css" download="rj-sovereign-tokens.css">CSS Tokens</a>
+          <a class="button outline" href="/api/brand/export/json" download="rj-sovereign-tokens.json">W3C JSON</a>
+          <a class="button outline" href="/api/brand/export/tailwind" download="rj-sovereign-tailwind.css">Tailwind v4</a>
+          <a class="button outline" href="/api/brand/export/memo" target="_blank" rel="noopener">Safe Memo HTML ↗</a>
+          <a class="button gold" href="/api/brand/export/pdf" target="_blank" rel="noopener">Render Binary PDF ↗</a>
+        </div>
+      </div>
+
+      <p class="section-intro">Every token is validated against Contract v2.1.0 before saving. <strong>Security Guarantee:</strong> Banking and settlement instructions are strictly prohibited from universal brand templates and managed exclusively in the Protected Settlement Vault.</p>
+
+      <div class="brand-layout">
+        <div class="panel">
+          <div class="panel-head">
+            <h4>Sovereign Color Architecture</h4>
+            <span class="badge-gold" id="contract-badge">CONTRACT VALID</span>
+          </div>
+          <div class="swatch-grid" id="brand-palette-grid"></div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-head">
+            <h4>Editorial Typography Specimen</h4>
+            <span class="badge-gold" id="type-pairing-label">Cormorant Garamond · Plus Jakarta Sans</span>
+          </div>
+          <div class="type-specimen">
+            <div class="spec-row"><span class="spec-meta">DISPLAY HERO · 64px / 1.02</span><div class="spec-hero">Sovereign Capital, Timeless Form.</div></div>
+            <div class="spec-row"><span class="spec-meta">SECTION HEADING · 34px / 1.15</span><div class="spec-h2">Private Placement &amp; Family Office Advisory</div></div>
+            <div class="spec-row"><span class="spec-meta">INSTITUTIONAL OVERLINE · 10px / 0.22em</span><div class="spec-overline">CONFIDENTIAL · QUALIFIED INSTITUTIONAL BUYER MEMORANDUM</div></div>
+            <div class="spec-row"><span class="spec-meta">TABULAR FINANCIAL FIGURES · MANROPE</span><div class="spec-figures tabular-nums">$1,450,000,000 &nbsp;·&nbsp; +18.4% Net IRR &nbsp;·&nbsp; 2.42x MOIC</div></div>
+            <div class="spec-row"><span class="spec-meta">EDITORIAL BODY · 14px / 1.65</span><p class="spec-body">RJ Business Solutions architects institutional capital platforms, credit infrastructure, and private-client portals with disciplined restraint and verifiable precision.</p></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel" style="margin-top: 22px;">
+        <div class="panel-head">
+          <h4>Edit Global Brand Kit Settings (Principal Role Required)</h4>
+          <button id="reset-brand-btn" class="button ghost" type="button">Reset to Sovereign Defaults</button>
+        </div>
+        <form id="brand-form" class="brand-form">
+          <div class="form-grid-3">
+            <label>Firm Name<input name="firm_name" required></label>
+            <label>Managing Principal<input name="principal" required></label>
+            <label>Principal Title<input name="principal_title" required></label>
+            <label>Institutional Subline<input name="subline" required></label>
+            <label>Website<input name="website" required></label>
+            <label>Investor Relations Email<input name="email" required></label>
+            <label>Primary Gold Accent (HEX)<input name="gold" required pattern="^#[0-9A-Fa-f]{6}$"></label>
+            <label>Obsidian Dark Surface (HEX)<input name="obsidian" required pattern="^#[0-9A-Fa-f]{6}$"></label>
+            <label>Warm Alabaster Surface (HEX)<input name="alabaster" required pattern="^#[0-9A-Fa-f]{6}$"></label>
+            <label>Display Serif Font<input name="display_font" required></label>
+            <label>Body Sans Font<input name="body_font" required></label>
+            <label>Numeric Tabular Font<input name="numeric_font" required></label>
+          </div>
+          <label style="margin-top: 14px;">Institutional Positioning Statement<textarea name="positioning" rows="3" required></textarea></label>
+          <div class="modal-actions" style="margin-top: 20px;">
+            <button type="submit" class="button gold">Validate &amp; Save Global Brand Contract</button>
+          </div>
+        </form>
+      </div>
+    </section>
+
+    <!-- 2B. ENVATO LUXURY FONT & BRAND ASSET VAULT -->
+    <section id="vault" class="screen">
+      <div class="section-heading">
+        <div>
+          <span class="overline">12 LICENSED ENVATO LUXURY FONTS · 5 LUXURY KITS · VERIFIED DIRECTORY</span>
+          <h3>RJ Sovereign Envato &amp; Brand Asset Vault</h3>
+        </div>
+        <div class="export-strip">
+          <a class="button outline" href="/vault/templates/DELIVERABLE-16-MASTER-BRAND-GUIDELINES.html" target="_blank" rel="noopener">Master Brand Guidelines ↗</a>
+          <a class="button outline" href="/vault/templates/rj-executive-proposal-letterhead.html" target="_blank" rel="noopener">Executive Letterhead ↗</a>
+          <a class="button gold" href="/vault/templates/rj-executive-email-signature.html" target="_blank" rel="noopener">Email Signature ↗</a>
+        </div>
+      </div>
+      <p class="section-intro">Every licensed Envato Elements luxury font family, downloadable kit, official RJ logo/monogram, Rick Jefferson executive studio portrait, marble texture, and live-verified contact channel from <code>rjbusinesssolutions.org</code> and <code>rickjefferson.com</code> — unified inside RJ Design Command OS.</p>
+
+      <div class="panel" style="margin-bottom: 22px;">
+        <div class="panel-head"><h4>Live Envato Asset Broker — Search, Download &amp; Auto-Rebrand into Any Project</h4><span class="badge-gold" id="envato-status-badge">22 ARCHIVES CONNECTED</span></div>
+        <form id="envato-search-form" class="form-grid-3" style="margin-bottom: 14px;">
+          <label>Search Envato Assets<input name="q" placeholder="e.g. pitch deck, serif, social, marble, linkedin..."></label>
+          <label>Category
+            <select name="category">
+              <option value="all">All Categories (22+)</option>
+              <option value="fonts">Luxury Fonts (12)</option>
+              <option value="presentations">Pitch Decks &amp; Slides</option>
+              <option value="web-ui">Website &amp; Figma UI</option>
+              <option value="social-media">Social Media &amp; YouTube</option>
+              <option value="textures-3d">3D &amp; Gold Marble Textures</option>
+              <option value="stationery">Stationery &amp; Identity</option>
+              <option value="video-motion">Video &amp; Logo Intros</option>
+            </select>
+          </label>
+          <label>Target Project Folder (for 1-Click Install + RJ Rebrand)<input id="envato-target-dir" value="/tmp/rj-demo-project"></label>
+        </form>
+        <div class="component-row" style="margin-bottom: 16px;">
+          <button id="envato-search-btn" class="button gold" type="button">Search Connected Envato Vault</button>
+          <a id="envato-live-link" class="button outline" href="https://app.envato.com/search?term=luxury+black+gold&sort=popular" target="_blank" rel="noopener">Browse Live Envato Elements ↗</a>
+        </div>
+        <div id="envato-search-results" class="integration-grid"></div>
+      </div>
+
+      <div class="panel" style="margin-bottom: 22px;">
+        <div class="panel-head"><h4>12 Licensed Envato Luxury Font Families (Live Rendered)</h4><span class="badge-gold">LOCAL .WOFF2 / .OTF VAULT</span></div>
+        <div id="vault-fonts-grid" class="integration-grid"></div>
+      </div>
+
+      <div class="brand-layout" style="margin-bottom: 22px;">
+        <div class="panel">
+          <div class="panel-head"><h4>Official Logos &amp; Sovereign Monograms</h4><span class="badge-gold">SVG + APPROVED MARK</span></div>
+          <div id="vault-logos-grid" class="vault-media-grid"></div>
+        </div>
+        <div class="panel">
+          <div class="panel-head"><h4>Live-Verified Contact &amp; Channel Directory</h4><span class="badge-gold">DFW HQ · NM CORP</span></div>
+          <div id="vault-contact-box"></div>
+        </div>
+      </div>
+
+      <div class="panel" style="margin-bottom: 22px;">
+        <div class="panel-head"><h4>5 Downloaded Envato Elements Luxury Kits</h4><span class="badge-gold">96.5 – 93.0 SCORED</span></div>
+        <div id="vault-kits-grid" class="integration-grid"></div>
+      </div>
+
+      <div class="panel">
+        <div class="panel-head"><h4>Executive Studio Photography &amp; Black-Gold Marble Textures</h4><span class="badge-gold">6 PORTRAITS · 4 TEXTURES</span></div>
+        <div id="vault-photos-grid" class="vault-media-grid"></div>
+      </div>
+    </section>
+
+    <!-- 3. AI CREATIVE DIRECTOR & INDUSTRY INTELLIGENCE -->
+    <section id="orchestrator" class="screen">
+      <div class="section-heading">
+        <div>
+          <span class="overline">EXECUTABLE AI DESIGN COMPANY</span>
+          <h3>AI Executive Creative Director &amp; Industry Intelligence</h3>
+        </div>
+        <span class="badge-gold">8 DEPARTMENTS · 56 SPECIALISTS · 8 SECTORS</span>
+      </div>
+      <p class="section-intro">RJ's Sovereign Luxury Investor palette remains the default for RJ's own materials. Client mandates automatically inherit sector-appropriate palettes, compliance constraints, and typography from the <strong>Industry Design Intelligence Registry</strong>.</p>
+
+      <div class="panel" style="margin-bottom: 22px;">
+        <div class="panel-head">
+          <h4>8-Department Production Contracts &amp; Handoff Chain</h4>
+          <span class="spec-meta">Responsibility · Tools · Inputs/Outputs · Acceptance Threshold</span>
+        </div>
+        <div class="integration-grid" id="departments-grid"></div>
+      </div>
+
+      <div class="panel">
+        <div class="panel-head">
+          <h4>Industry Design Intelligence Registry (Client-Inheritable Identities)</h4>
+          <span class="spec-meta">Sector UX · Compliance · Motion/3D Intensity · Client Palette</span>
+        </div>
+        <div class="integration-grid" id="industries-grid"></div>
+      </div>
+    </section>
+
+    <!-- 3B. PRODUCTION STUDIO (PHASE 3 & 4) -->
+    <section id="production" class="screen">
+      <div class="section-heading">
+        <div>
+          <span class="overline">PHASE 3 &amp; 4 · COMMERCIAL PRODUCTION &amp; AUTOMATED QA</span>
+          <h3>Production Studio, Repo Adapter &amp; Automated QA Engine</h3>
+        </div>
+        <button id="run-qa-btn" class="button gold" type="button">Run Live Automated QA Audit</button>
+      </div>
+      <p class="section-intro">Generate commercial SVG crests, 1200×628 investor banners, multi-slide executive decks, React+3D `.zip` bundles, non-destructive repository integration plans, and real Headless Chrome security/accessibility/performance QA reports.</p>
+
+      <div class="brand-layout">
+        <div class="panel">
+          <div class="panel-head"><h4>Commercial Asset &amp; Deck Studio</h4><span class="badge-gold">SHA-256 PROVENANCE</span></div>
+          <form id="asset-form" class="form">
+            <label>Asset Type
+              <select name="asset_type" required>
+                <option value="monogram-crest">Sovereign Monogram Crest (400×400 SVG)</option>
+                <option value="investor-banner">Executive Investor Banner (1200×628 SVG)</option>
+                <option value="investor-deck">Confidential 3-Slide Pitch Deck (16:9 HTML/PDF)</option>
+              </select>
+            </label>
+            <label>Headline / Title<input name="title" required value="Sovereign Capital Mandate"></label>
+            <label>Subtitle / Deck Thesis<input name="subtitle" required value="Institutional Private-Wealth &amp; Credit Infrastructure"></label>
+            <button type="submit" class="button gold">Synthesize Commercial Asset</button>
+          </form>
+          <div id="assets-list" style="margin-top: 18px;"></div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-head"><h4>Universal Existing Repository Adapter</h4><span class="badge-gold">READ-ONLY SAFE</span></div>
+          <form id="repo-form" class="form">
+            <label>Local Repository Path<input name="path" required value="/Users/kalivibecoding/Downloads/rj-design-command-os-app"></label>
+            <button type="submit" class="button outline">Inspect Repository &amp; Build Integration Plan</button>
+          </form>
+          <div id="repo-report" style="margin-top: 18px;"></div>
+        </div>
+      </div>
+
+      <div class="panel" style="margin-top: 22px;">
+        <div class="panel-head"><h4>Automated Verification &amp; Release Evidence Log</h4><span class="badge-gold">CHROME + HEADERS + DOM + PERF</span></div>
+        <div id="qa-runs-list"><p class="section-intro">Sign in and click "Run Live Automated QA Audit" to execute security header, DOM accessibility, TTFB latency, and Desktop + iPhone screenshot verification.</p></div>
+      </div>
+    </section>
+
+    <!-- 4. FULL DESIGN SYSTEM COMPONENT SHOWROOM -->
+    <section id="components" class="screen">
+      <div class="section-heading">
+        <div>
+          <span class="overline">PRODUCTION UI ARCHITECTURE</span>
+          <h3>Billion-Dollar Investor Component Showroom</h3>
+        </div>
+        <span class="badge-gold">WCAG 2.2 AA / AAA TARGET</span>
+      </div>
+      <p class="section-intro">Live reference components built directly on the RJ Business Solutions Sovereign Luxury tokens. Toggle Vault Dark / Alabaster Light in the top bar to inspect both executive environments.</p>
+
+      <div class="showroom-stack">
+        <div class="panel">
+          <div class="panel-head"><h4>01 · LP Capital &amp; Yield Telemetry Cards</h4><span class="spec-meta">Tabular Numerals · Institutional Emerald Deltas</span></div>
+          <div class="kpi-grid">
+            <div class="kpi-card"><span class="overline">ASSETS UNDER ARCHITECTURE</span><strong class="tabular-nums">$1.28B</strong><span class="delta positive">+14.2% YoY Growth</span></div>
+            <div class="kpi-card"><span class="overline">TARGET NET IRR</span><strong class="tabular-nums">21.6%</strong><span class="delta positive">Top Quartile Vintage</span></div>
+            <div class="kpi-card"><span class="overline">COMMITTED LP CAPITAL</span><strong class="tabular-nums">$420.0M</strong><span class="delta neutral">94% Deployed</span></div>
+            <div class="kpi-card"><span class="overline">ACCREDITED PARTNERS</span><strong class="tabular-nums">148</strong><span class="delta positive">Reg D 506(c) Verified</span></div>
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-head"><h4>02 · Executive Actions, Seals &amp; Status Hierarchy</h4><span class="spec-meta">4px Architectural Radius · 44px Touch Safe</span></div>
+          <div class="component-row">
+            <button class="button gold" type="button">Request Offering Memorandum</button>
+            <button class="button obsidian-btn" type="button">Access Private Data Room</button>
+            <button class="button outline" type="button">Inspect Protected Settlement</button>
+            <button class="button ghost" type="button">Schedule Principal Briefing</button>
+          </div>
+          <div class="component-row" style="margin-top: 18px;">
+            <span class="seal-pill gold">ACCREDITED INVESTOR · 506(C)</span>
+            <span class="seal-pill emerald">KYC / AML CLEARED</span>
+            <span class="seal-pill amber">DUE DILIGENCE IN REVIEW</span>
+            <span class="seal-pill crimson">COMPLIANCE HOLD</span>
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-head"><h4>03 · Institutional Capital Commitment Schedule</h4><span class="spec-meta">Right-Aligned Tabular Figures · Gold Summary Rule</span></div>
+          <div class="table-wrap">
+            <table class="luxury-table">
+              <thead>
+                <tr>
+                  <th>Investment Vehicle / Tranche</th>
+                  <th>Structure</th>
+                  <th>Status</th>
+                  <th class="num">Commitment</th>
+                  <th class="num">Target Multiple</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><td><strong>RJ Sovereign Credit Infrastructure Fund I</strong></td><td>Reg D 506(c) LP</td><td><span class="seal-pill emerald">OPEN</span></td><td class="num tabular-nums">$25,000,000</td><td class="num tabular-nums">2.8x</td></tr>
+                <tr><td><strong>Private Wealth Automation Holdings</strong></td><td>Co-Investment SPV</td><td><span class="seal-pill gold">SUBSCRIBING</span></td><td class="num tabular-nums">$10,000,000</td><td class="num tabular-nums">3.2x</td></tr>
+                <tr><td><strong>Institutional Treasury &amp; Underwriting Core</strong></td><td>Senior Secured Note</td><td><span class="seal-pill emerald">ACTIVE</span></td><td class="num tabular-nums">$15,000,000</td><td class="num tabular-nums">1.9x</td></tr>
+                <tr class="total-row"><td colspan="3">Total Institutional Mandate Allocation</td><td class="num tabular-nums">$50,000,000</td><td class="num tabular-nums">2.6x Blended</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-head"><h4>04 · Fiduciary Notice &amp; Component Registry</h4><span class="spec-meta">Zero Hardcoded Banking Data in Templates</span></div>
+          <div class="advisory-box">
+            <span class="overline">PROTECTED SETTLEMENT ARCHITECTURE</span>
+            <p>Banking and settlement details are intentionally excluded from shared UI templates. Verified settlement instructions are issued exclusively via principal-approved transaction records in the Settlement &amp; Audit Vault.</p>
+          </div>
+          <div class="component-registry-list" id="component-registry-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 5. VISUAL DIRECTIONS STUDIO -->
+    <section id="studio" class="screen">
+      <div class="section-heading">
+        <div>
+          <span class="overline">12 CURATED LUXURY &amp; INSTITUTIONAL TERRITORIES</span>
+          <h3>Visual Direction Studio</h3>
+        </div>
+        <div class="filter-bar" id="style-filters"></div>
+      </div>
+      <p class="section-intro">Every territory is calibrated for ultra-high-net-worth, private-wealth, and institutional audiences. <strong>Sovereign Private Wealth</strong> is locked as the RJ Business Solutions Global Brand Standard v2.1.</p>
+      <div class="style-grid" id="studio-styles"></div>
+    </section>
+
+    <!-- 6. CLIENT MANDATES / PROJECTS -->
+    <section id="projects" class="screen">
+      <div class="section-heading">
+        <div>
+          <span class="overline">CLIENT &amp; PORTFOLIO PIPELINE</span>
+          <h3>Mandate Workspaces</h3>
+        </div>
+        <button class="button gold" id="new-project-inline" type="button">+ Create Mandate</button>
+      </div>
+      <div id="projects-list" class="project-grid"></div>
+      <div id="project-detail" class="detail hidden"></div>
+    </section>
+
+    <!-- 7. PROTECTED SETTLEMENT & AUDIT VAULT -->
+    <section id="settlements" class="screen">
+      <div class="section-heading">
+        <div>
+          <span class="overline">P0 FINANCIAL SECURITY GOVERNANCE</span>
+          <h3>Protected Settlement &amp; Immutable Audit Vault</h3>
+        </div>
+        <button id="backup-db-btn" class="button outline" type="button">Run Online SQLite Backup</button>
+      </div>
+      <p class="section-intro">Banking and wire instructions never live in universal brand templates. Every settlement record requires (1) creation by an authenticated Director/Principal, (2) counterparty callback/KYC verification, and (3) explicit Principal approval before inclusion in an authorized Executive Memorandum PDF.</p>
+
+      <div class="brand-layout">
+        <div class="panel">
+          <div class="panel-head"><h4>Create Protected Settlement Record</h4><span class="badge-gold">AUTH REQUIRED</span></div>
+          <form id="settlement-form" class="form">
+            <label>Verified Counterparty / Recipient Name<input name="recipient_name" required placeholder="e.g. Meridian Family Office LP"></label>
+            <label>Settlement Method
+              <select name="method" required>
+                <option value="wire">Domestic / International Wire</option>
+                <option value="escrow">Third-Party Escrow</option>
+                <option value="zelle">Verified Executive Zelle</option>
+              </select>
+            </label>
+            <label>Financial Institution / Channel<input name="institution" required placeholder="e.g. Institutional Escrow Trust"></label>
+            <label>Authorized Reference Code<input name="reference_code" required placeholder="e.g. RJ-LP-2026-0041"></label>
+            <button type="submit" class="button gold">Create Pending Record</button>
+          </form>
+        </div>
+
+        <div class="panel">
+          <div class="panel-head"><h4>Authorized Settlement Ledger</h4><span class="badge-gold">TWO-STEP APPROVAL</span></div>
+          <div id="settlements-list"><p class="section-intro">Sign in as Principal or Director to inspect and approve settlement records.</p></div>
+        </div>
+      </div>
+
+      <div class="panel" style="margin-top: 22px;">
+        <div class="panel-head"><h4>Immutable Security &amp; Governance Audit Log</h4><span class="badge-gold">APPEND-ONLY</span></div>
+        <div id="audit-log-list"><p class="section-intro">Sign in to view the security audit trail.</p></div>
+      </div>
+    </section>
+
+    <!-- 8. VISUAL QUALITY & WCAG 2.2 LAB -->
+    <section id="quality" class="screen">
+      <div class="section-heading">
+        <div>
+          <span class="overline">EVIDENCE-DRIVEN 10-CATEGORY RELEASE GATE</span>
+          <h3>Visual Quality &amp; Full WCAG 2.2 AA Laboratory</h3>
+        </div>
+      </div>
+      <p class="section-intro">Passing requires ≥ 90/100 across 10 weighted categories AND zero critical blockers below 3/5 in UX, Accessibility, Performance, or Security. Contrast checking is paired with full keyboard, screen-reader, zoom, touch-target, and reduced-motion verification.</p>
+
+      <div class="brand-layout">
+        <div class="panel">
+          <div class="panel-head"><h4>10-Category 100-Point Release Rubric</h4><span class="badge-gold">4 CRITICAL GATES</span></div>
+          <div id="quality-rubric"></div>
+        </div>
+        <div class="panel">
+          <div class="panel-head"><h4>Live WCAG 2.2 Contrast Verifier</h4><span class="badge-gold">RELATIVE LUMINANCE</span></div>
+          <div id="contrast-matrix" class="contrast-list"></div>
+        </div>
+      </div>
+
+      <div class="panel" style="margin-top: 22px;">
+        <div class="panel-head"><h4>WCAG 2.2 AA Full Accessibility Verification Checklist</h4><span class="badge-gold">BEYOND CONTRAST</span></div>
+        <div id="wcag-checklist" class="integration-grid"></div>
+      </div>
+    </section>
+
+    <!-- 9. ARCHITECTURE & SECURITY -->
+    <section id="integrations" class="screen">
+      <div class="section-heading">
+        <div>
+          <span class="overline">TRANSPARENT CAPABILITY REGISTRY</span>
+          <h3>Verified Local Capabilities &amp; Cloud Roadmap</h3>
+        </div>
+      </div>
+      <div class="integration-grid" id="integration-grid"></div>
+    </section>
+  </main>
+</div>
+
+<!-- Create Mandate Modal -->
+<dialog id="create-dialog" class="modal">
+  <form id="create-form" class="form">
+    <div class="modal-title">
+      <span class="overline">NEW INSTITUTIONAL MANDATE</span>
+      <h3>Define the creative brief.</h3>
+    </div>
+    <label>Mandate / Project Name<input name="name" required maxlength="100" placeholder="e.g. Meridian Family Office Portal"></label>
+    <label>Sector / Asset Class<input name="industry" required placeholder="Private Wealth, Real Estate, Legal, Hospitality, Venture..."></label>
+    <label>Target Audience<input name="audience" required placeholder="Accredited investors, institutional LPs, family office principals..."></label>
+    <label>Aesthetic Register
+      <select name="mood" required>
+        <option value="">Select an institutional register</option>
+        <option>Sovereign and institutional</option>
+        <option>Old-world private banking</option>
+        <option>Editorial and boardroom-grade</option>
+        <option>Architectural quiet luxury</option>
+        <option>High-conviction venture capital</option>
+        <option>Bespoke ultra-HNW concierge</option>
+      </select>
+    </label>
+    <label>Mandate Brief<textarea name="brief" required rows="4" maxlength="3000" placeholder="Describe the capital mandate, target investor profile, deliverables, and luxury ambition."></textarea></label>
+    <div class="modal-actions">
+      <button type="button" class="button ghost" id="cancel-create">Cancel</button>
+      <button type="submit" class="button gold">Create Mandate</button>
+    </div>
+  </form>
+</dialog>
+
+<!-- Auth Modal -->
+<dialog id="auth-dialog" class="modal">
+  <form id="auth-form" class="form">
+    <div class="modal-title">
+      <span class="overline">SCRYPT + SIGNED SESSION AUTHENTICATION</span>
+      <h3>Sign in to Sovereign Command.</h3>
+    </div>
+    <label>Role Account
+      <select name="username" required>
+        <option value="principal">principal (Full Authority — Brand, Settlements, Backups)</option>
+        <option value="director">director (Mandates, Orchestrator, Pending Settlements)</option>
+        <option value="viewer">viewer (Read-Only + Audit Logs)</option>
+      </select>
+    </label>
+    <label>Passphrase<input name="password" type="password" required value="Sovereign#2026!" autocomplete="current-password"></label>
+    <div class="modal-actions">
+      <button type="button" class="button ghost" id="cancel-auth">Cancel</button>
+      <button type="submit" class="button gold">Authenticate Session</button>
+    </div>
+  </form>
+</dialog>
+</body>
+</html>

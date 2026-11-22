@@ -1,0 +1,85 @@
+/* ==========================================================================
+ * RJ BUSINESS SOLUTIONS — SOVEREIGN MOTION, GLASS & 3D VISUAL PRIMITIVES
+ * Luxury High-Ticket Tech Division Design System v3.0
+ * ========================================================================== */
+
+:root {
+  --rj-ease-luxury: cubic-bezier(0.22, 1, 0.36, 1);
+  --rj-ease-swift: cubic-bezier(0.4, 0, 0.2, 1);
+  --rj-dur-fast: 160ms;
+  --rj-dur-base: 280ms;
+  --rj-dur-reveal: 680ms;
+  --rj-glass-obsidian: rgba(18, 20, 26, 0.72);
+  --rj-glass-border-gold: rgba(197, 160, 89, 0.28);
+  --rj-shimmer-gold: linear-gradient(110deg, transparent 25%, rgba(223, 196, 140, 0.22) 50%, transparent 75%);
+}
+
+.rj-vault-glass {
+  background: var(--rj-glass-obsidian);
+  backdrop-filter: blur(18px) saturate(140%);
+  -webkit-backdrop-filter: blur(18px) saturate(140%);
+  border: 1px solid var(--rj-glass-border-gold);
+  box-shadow: 0 24px 64px rgba(10, 11, 14, 0.45), inset 0 1px 0 rgba(223, 196, 140, 0.14);
+  transition: transform var(--rj-dur-base) var(--rj-ease-luxury),
+              border-color var(--rj-dur-base) var(--rj-ease-luxury),
+              box-shadow var(--rj-dur-base) var(--rj-ease-luxury);
+}
+.rj-vault-glass:hover {
+  transform: translateY(-3px);
+  border-color: rgba(223, 196, 140, 0.62);
+  box-shadow: 0 28px 72px rgba(10, 11, 14, 0.6), 0 0 28px rgba(197, 160, 89, 0.16);
+}
+
+.rj-btn-sovereign {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, #B48E43 0%, #DFC48C 50%, #C5A059 100%);
+  color: #0A0B0E;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  transition: transform var(--rj-dur-fast) var(--rj-ease-luxury), box-shadow var(--rj-dur-base) var(--rj-ease-luxury);
+}
+.rj-btn-sovereign::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--rj-shimmer-gold);
+  transform: translateX(-100%);
+  transition: transform 700ms var(--rj-ease-luxury);
+}
+.rj-btn-sovereign:hover::after { transform: translateX(100%); }
+.rj-btn-sovereign:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 12px 32px rgba(197, 160, 89, 0.34);
+}
+
+.rj-hero-video-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.26;
+  pointer-events: none;
+  z-index: 0;
+}
+
+@keyframes rjRevealUp {
+  from { opacity: 0; transform: translateY(18px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.rj-reveal { animation: rjRevealUp var(--rj-dur-reveal) var(--rj-ease-luxury) both; }
+
+.rj-gold-rule {
+  height: 1px;
+  background: linear-gradient(90deg, transparent 0%, #C5A059 20%, #DFC48C 50%, #C5A059 80%, transparent 100%);
+  opacity: 0.7;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rj-reveal, .rj-vault-glass, .rj-btn-sovereign::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}

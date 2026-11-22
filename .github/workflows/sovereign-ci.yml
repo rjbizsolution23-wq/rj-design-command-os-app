@@ -1,0 +1,20 @@
+name: RJ Design Command OS — Sovereign CI & Security Gate
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  verify-sovereign-os:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Compile Python Modules
+        run: python3 -m py_compile server.py core/security.py core/contracts.py core/orchestrator.py core/production.py core/qa_engine.py
+      - name: Run Zero-Warning Security, RBAC, Contract, Production & QA Suite
+        run: python3 -W error -m unittest discover -s tests -v

@@ -1,0 +1,21 @@
+name = "rj-design-command-os"
+main = "src/worker.ts"
+compatibility_date = "2026-11-01"
+
+# Bindings: Provision once with:
+#   wrangler d1 create rj-design-command-db
+#   wrangler r2 bucket create rj-design-command-assets
+#   wrangler secret put RJ_SESSION_SECRET
+#   wrangler secret put RJ_ADMIN_PASSWORD
+
+[[d1_databases]]
+binding = "DB"
+database_name = "rj-design-command-db"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
+
+[[r2_buckets]]
+binding = "ASSETS"
+bucket_name = "rj-design-command-assets"
+
+[observability]
+enabled = true

@@ -1,0 +1,1017 @@
+{
+  "name": "RJ Business Solutions \u2014 Sovereign Luxury Font Vault",
+  "version": "1.0.0",
+  "macos_install_dir": "/Users/kalivibecoding/Library/Fonts/RJ-Envato-Luxury",
+  "vault_dir": "/Users/kalivibecoding/Downloads/Super-agents266/envato-fonts/vault",
+  "global_brand_dir": "/Users/kalivibecoding/.gemini/config/brand/fonts",
+  "css_file": "/Users/kalivibecoding/Downloads/Super-agents266/envato-fonts/vault/rj-luxury-fonts.css",
+  "project_installer": "/Users/kalivibecoding/Downloads/Super-agents266/envato-fonts/vault/install-into-project.sh",
+  "families": [
+    {
+      "slug": "taillevere",
+      "css_name": "Taillevere",
+      "category": "Investor Luxury Didone Serif",
+      "use_case": "Private wealth hero headlines, offering memoranda, sovereign seals, luxury editorial",
+      "desktop_installed_files": 2,
+      "web_variants": 2,
+      "faces": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Taillevere-Regular.woff2",
+            "Taillevere-Regular.otf",
+            "Taillevere-Regular.ttf"
+          ]
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Taillevere-Bold.woff2",
+            "Taillevere-Bold.otf",
+            "Taillevere-Bold.ttf"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "auretha",
+      "css_name": "Auretha",
+      "category": "Modern Luxury Serif",
+      "use_case": "Multi-weight luxury display & editorial headings (Thin to Extrabold + Variable)",
+      "desktop_installed_files": 9,
+      "web_variants": 9,
+      "faces": [
+        {
+          "weight": "100",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "GCAuretha-Thin.woff2",
+            "GCAuretha-Thin.woff",
+            "GCAuretha-Thin.otf",
+            "GCAuretha-Thin.ttf"
+          ]
+        },
+        {
+          "weight": "200",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "GCAuretha-ExtraLight.woff2",
+            "GCAuretha-ExtraLight.woff",
+            "GCAuretha-ExtraLight.otf",
+            "GCAuretha-ExtraLight.ttf"
+          ]
+        },
+        {
+          "weight": "300",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "GCAuretha-Light.woff2",
+            "GCAuretha-Light.woff",
+            "GCAuretha-Light.otf",
+            "GCAuretha-Light.ttf"
+          ]
+        },
+        {
+          "weight": "400",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "GCAuretha-Regular.woff2",
+            "GCAuretha-Regular.woff",
+            "GCAuretha-Regular.otf",
+            "GCAuretha-Regular.ttf"
+          ]
+        },
+        {
+          "weight": "500",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "GCAuretha-Medium.woff2",
+            "GCAuretha-Medium.woff",
+            "GCAuretha-Medium.otf",
+            "GCAuretha-Medium.ttf"
+          ]
+        },
+        {
+          "weight": "600",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "GCAuretha-SemiBold.woff2",
+            "GCAuretha-SemiBold.woff",
+            "GCAuretha-SemiBold.otf",
+            "GCAuretha-SemiBold.ttf"
+          ]
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "GCAuretha-Bold.woff2",
+            "GCAuretha-Bold.woff",
+            "GCAuretha-Bold.otf",
+            "GCAuretha-Bold.ttf"
+          ]
+        },
+        {
+          "weight": "800",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "GCAuretha-ExtraBold.woff2",
+            "GCAuretha-ExtraBold.woff",
+            "GCAuretha-ExtraBold.otf",
+            "GCAuretha-ExtraBold.ttf"
+          ]
+        },
+        {
+          "weight": "100 900",
+          "style": "normal",
+          "variable": true,
+          "files": [
+            "GC-Gretha-VF.ttf"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "siovanni",
+      "css_name": "Siovanni",
+      "category": "Luxury Display Serif",
+      "use_case": "High-conviction executive headlines, italics & ligatures for investor decks",
+      "desktop_installed_files": 14,
+      "web_variants": 14,
+      "faces": [
+        {
+          "weight": "100",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Siovanni-ThinItalic.otf"
+          ]
+        },
+        {
+          "weight": "100",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Siovanni-Thin.otf"
+          ]
+        },
+        {
+          "weight": "200",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Siovanni-ExtraLightItalic.otf"
+          ]
+        },
+        {
+          "weight": "200",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Siovanni-ExtraLight.otf"
+          ]
+        },
+        {
+          "weight": "300",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Siovanni-LightItalic.otf"
+          ]
+        },
+        {
+          "weight": "300",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Siovanni-Light.otf"
+          ]
+        },
+        {
+          "weight": "400",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Siovanni-Italic.otf"
+          ]
+        },
+        {
+          "weight": "400",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Siovanni-Regular.otf"
+          ]
+        },
+        {
+          "weight": "500",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Siovanni-MediumItalic.otf"
+          ]
+        },
+        {
+          "weight": "500",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Siovanni-Medium.otf"
+          ]
+        },
+        {
+          "weight": "600",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Siovanni-SemiBoldItalic.otf"
+          ]
+        },
+        {
+          "weight": "600",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Siovanni-SemiBold.otf"
+          ]
+        },
+        {
+          "weight": "700",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Siovanni-BoldItalic.otf"
+          ]
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Siovanni-Bold.otf"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "pierre-robe",
+      "css_name": "Pierre Robe",
+      "category": "Cinematic Luxury Serif",
+      "use_case": "Bespoke branding, private client portals, editorial callouts",
+      "desktop_installed_files": 2,
+      "web_variants": 2,
+      "faces": [
+        {
+          "weight": "400",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Pierre-Robe-Italic.woff2",
+            "Pierre-Robe-Italic.woff",
+            "Pierre-Robe-Italic.otf",
+            "Pierre-Robe-Italic.ttf"
+          ]
+        },
+        {
+          "weight": "400",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Pierre-Robe-Regular.woff2",
+            "Pierre-Robe-Regular.woff",
+            "Pierre-Robe-Regular.otf",
+            "Pierre-Robe-Regular.ttf"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "editorial",
+      "css_name": "Editorial Luxury",
+      "category": "High-Contrast Editorial Serif",
+      "use_case": "Magazine-grade headings, executive reports, refined serif accents",
+      "desktop_installed_files": 9,
+      "web_variants": 9,
+      "faces": [
+        {
+          "weight": "100",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "EditorialToday-ThinItalic.otf",
+            "EditorialToday-ThinItalic.ttf"
+          ]
+        },
+        {
+          "weight": "100",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "EditorialToday-Thin.otf",
+            "EditorialToday-Thin.ttf"
+          ]
+        },
+        {
+          "weight": "400",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "EditorialToday-Italic.otf",
+            "EditorialToday-Italic.ttf"
+          ]
+        },
+        {
+          "weight": "400",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "EditorialToday-Regular.otf",
+            "EditorialToday-Regular.ttf"
+          ]
+        },
+        {
+          "weight": "600",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "EditorialToday-SemiBold.otf",
+            "EditorialToday-SemiBold.ttf"
+          ]
+        },
+        {
+          "weight": "700",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "EditorialToday-BoldItalic.otf",
+            "EditorialToday-BoldItalic.ttf"
+          ]
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "EditorialToday-Bold.otf",
+            "EditorialToday-Bold.ttf"
+          ]
+        },
+        {
+          "weight": "800",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "EditorialToday-ExtraBoldItalic.otf",
+            "EditorialToday-ExtraBoldItalic.ttf"
+          ]
+        },
+        {
+          "weight": "800",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "EditorialToday-ExtraBold.otf",
+            "EditorialToday-ExtraBold.ttf"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "swarsh-daisy",
+      "css_name": "Swarsh Daisy",
+      "category": "Eye-Catching Luxury Serif Display",
+      "use_case": "Ultra-high-contrast attention-grabbing luxury hero banners & campaigns",
+      "desktop_installed_files": 2,
+      "web_variants": 2,
+      "faces": [
+        {
+          "weight": "400",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Swarsh-Daisy-Italic.woff2",
+            "Swarsh-Daisy-Italic.woff",
+            "Swarsh-Daisy-Italic.otf",
+            "Swarsh-Daisy-Italic.ttf"
+          ]
+        },
+        {
+          "weight": "400",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Swarsh-Daisy-Regular.woff2",
+            "Swarsh-Daisy-Regular.woff",
+            "Swarsh-Daisy-Regular.otf",
+            "Swarsh-Daisy-Regular.ttf"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "morgen",
+      "css_name": "Morgen",
+      "category": "Sculptural Luxury Display",
+      "use_case": "Statement monograms, prestige logos, eye-catching cover titles",
+      "desktop_installed_files": 1,
+      "web_variants": 1,
+      "faces": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Morgen.woff2",
+            "Morgen.woff",
+            "Morgen.otf",
+            "Morgen.ttf"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "galante",
+      "css_name": "Galante",
+      "category": "Luxury Branding Family (9 Weights)",
+      "use_case": "Full-spectrum prestige brand identity, web headers, luxury packaging",
+      "desktop_installed_files": 9,
+      "web_variants": 9,
+      "faces": [
+        {
+          "weight": "100",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Galante-Thin.woff2",
+            "Galante-Thin.woff",
+            "Galante-Thin.otf",
+            "Galante-Thin.ttf"
+          ]
+        },
+        {
+          "weight": "200",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Galante-ExtraLight.woff2",
+            "Galante-ExtraLight.woff",
+            "Galante-ExtraLight.otf",
+            "Galante-ExtraLight.ttf"
+          ]
+        },
+        {
+          "weight": "300",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Galante-Light.woff2",
+            "Galante-Light.woff",
+            "Galante-Light.otf",
+            "Galante-Light.ttf"
+          ]
+        },
+        {
+          "weight": "400",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Galante-Regular.woff2",
+            "Galante-Regular.woff",
+            "Galante-Regular.otf",
+            "Galante-Regular.ttf"
+          ]
+        },
+        {
+          "weight": "500",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Galante-Medium.woff2",
+            "Galante-Medium.woff",
+            "Galante-Medium.otf",
+            "Galante-Medium.ttf"
+          ]
+        },
+        {
+          "weight": "600",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Galante-SemiBold.woff2",
+            "Galante-SemiBold.woff",
+            "Galante-SemiBold.otf",
+            "Galante-SemiBold.ttf"
+          ]
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Galante-Bold.woff2",
+            "Galante-Bold.woff",
+            "Galante-Bold.otf",
+            "Galante-Bold.ttf"
+          ]
+        },
+        {
+          "weight": "800",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Galante-ExtraBold.woff2",
+            "Galante-ExtraBold.woff",
+            "Galante-ExtraBold.otf",
+            "Galante-ExtraBold.ttf"
+          ]
+        },
+        {
+          "weight": "900",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Galante-Black.woff2",
+            "Galante-Black.woff",
+            "Galante-Black.otf",
+            "Galante-Black.ttf"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "grift",
+      "css_name": "Grift",
+      "category": "Modern Geometric Sans-Serif",
+      "use_case": "Clean institutional UI, financial dashboards, tabular body & subheadings",
+      "desktop_installed_files": 19,
+      "web_variants": 19,
+      "faces": [
+        {
+          "weight": "100",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Grift-ThinItalic.woff2",
+            "Grift-ThinItalic.woff",
+            "Grift-ThinItalic.otf",
+            "Grift-ThinItalic.ttf"
+          ]
+        },
+        {
+          "weight": "100",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Grift-Thin.woff2",
+            "Grift-Thin.woff",
+            "Grift-Thin.otf",
+            "Grift-Thin.ttf"
+          ]
+        },
+        {
+          "weight": "200",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Grift-ExtraLightItalic.woff2",
+            "Grift-ExtraLightItalic.woff",
+            "Grift-ExtraLightItalic.otf",
+            "Grift-ExtraLightItalic.ttf"
+          ]
+        },
+        {
+          "weight": "200",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Grift-ExtraLight.woff2",
+            "Grift-ExtraLight.woff",
+            "Grift-ExtraLight.otf",
+            "Grift-ExtraLight.ttf"
+          ]
+        },
+        {
+          "weight": "300",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Grift-LightItalic.woff2",
+            "Grift-LightItalic.woff",
+            "Grift-LightItalic.otf",
+            "Grift-LightItalic.ttf"
+          ]
+        },
+        {
+          "weight": "300",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Grift-Light.woff2",
+            "Grift-Light.woff",
+            "Grift-Light.otf",
+            "Grift-Light.ttf"
+          ]
+        },
+        {
+          "weight": "400",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Grift-Italic.woff2",
+            "Grift-Italic.woff",
+            "Grift-Italic.otf",
+            "Grift-Italic.ttf"
+          ]
+        },
+        {
+          "weight": "400",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Grift-Regular.woff2",
+            "Grift-Regular.woff",
+            "Grift-Regular.otf",
+            "Grift-Regular.ttf"
+          ]
+        },
+        {
+          "weight": "500",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Grift-MediumItalic.woff2",
+            "Grift-MediumItalic.woff",
+            "Grift-MediumItalic.otf",
+            "Grift-MediumItalic.ttf"
+          ]
+        },
+        {
+          "weight": "500",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Grift-Medium.woff2",
+            "Grift-Medium.woff",
+            "Grift-Medium.otf",
+            "Grift-Medium.ttf"
+          ]
+        },
+        {
+          "weight": "600",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Grift-SemiBoldItalic.woff2",
+            "Grift-SemiBoldItalic.woff",
+            "Grift-SemiBoldItalic.otf",
+            "Grift-SemiBoldItalic.ttf"
+          ]
+        },
+        {
+          "weight": "600",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Grift-SemiBold.woff2",
+            "Grift-SemiBold.woff",
+            "Grift-SemiBold.otf",
+            "Grift-SemiBold.ttf"
+          ]
+        },
+        {
+          "weight": "700",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Grift-BoldItalic.woff2",
+            "Grift-BoldItalic.woff",
+            "Grift-BoldItalic.otf",
+            "Grift-BoldItalic.ttf"
+          ]
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Grift-Bold.woff2",
+            "Grift-Bold.woff",
+            "Grift-Bold.otf",
+            "Grift-Bold.ttf"
+          ]
+        },
+        {
+          "weight": "800",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Grift-ExtraBoldItalic.woff2",
+            "Grift-ExtraBoldItalic.woff",
+            "Grift-ExtraBoldItalic.otf",
+            "Grift-ExtraBoldItalic.ttf"
+          ]
+        },
+        {
+          "weight": "800",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Grift-ExtraBold.woff2",
+            "Grift-ExtraBold.woff",
+            "Grift-ExtraBold.otf",
+            "Grift-ExtraBold.ttf"
+          ]
+        },
+        {
+          "weight": "900",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "Grift-BlackItalic.woff2",
+            "Grift-BlackItalic.woff",
+            "Grift-BlackItalic.otf",
+            "Grift-BlackItalic.ttf"
+          ]
+        },
+        {
+          "weight": "900",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Grift-Black.woff2",
+            "Grift-Black.woff",
+            "Grift-Black.otf",
+            "Grift-Black.ttf"
+          ]
+        },
+        {
+          "weight": "100 900",
+          "style": "normal",
+          "variable": true,
+          "files": [
+            "Grift-Variable-VF.ttf"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "xenon-nue",
+      "css_name": "Xenon Nue",
+      "category": "Neo-Grotesque Sans-Serif (18 Styles)",
+      "use_case": "Executive pitch decks, SaaS dashboards, crisp readable body copy",
+      "desktop_installed_files": 18,
+      "web_variants": 18,
+      "faces": [
+        {
+          "weight": "100",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "XenonNue-Thin_Italic.woff2",
+            "XenonNue-Thin_Italic.woff",
+            "XenonNue-Thin_Italic.otf",
+            "XenonNue-Thin_Italic.ttf"
+          ]
+        },
+        {
+          "weight": "100",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "XenonNue-Thin.woff2",
+            "XenonNue-Thin.woff",
+            "XenonNue-Thin.otf",
+            "XenonNue-Thin.ttf"
+          ]
+        },
+        {
+          "weight": "200",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "XenonNue-ExtraLight_Italic.woff2",
+            "XenonNue-ExtraLight_Italic.woff",
+            "XenonNue-ExtraLight_Italic.otf",
+            "XenonNue-ExtraLight_Italic.ttf"
+          ]
+        },
+        {
+          "weight": "200",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "XenonNue-ExtraLight.woff2",
+            "XenonNue-ExtraLight.woff",
+            "XenonNue-ExtraLight.otf",
+            "XenonNue-ExtraLight.ttf"
+          ]
+        },
+        {
+          "weight": "300",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "XenonNue-Light_Italic.woff2",
+            "XenonNue-Light_Italic.woff",
+            "XenonNue-Light_Italic.otf",
+            "XenonNue-Light_Italic.ttf"
+          ]
+        },
+        {
+          "weight": "300",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "XenonNue-Light.woff2",
+            "XenonNue-Light.woff",
+            "XenonNue-Light.otf",
+            "XenonNue-Light.ttf"
+          ]
+        },
+        {
+          "weight": "400",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "XenonNue-Regular_Italic.woff2",
+            "XenonNue-Regular_Italic.woff",
+            "XenonNue-Regular_Italic.otf",
+            "XenonNue-Regular_Italic.ttf"
+          ]
+        },
+        {
+          "weight": "400",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "XenonNue-Regular.woff2",
+            "XenonNue-Regular.woff",
+            "XenonNue-Regular.otf",
+            "XenonNue-Regular.ttf"
+          ]
+        },
+        {
+          "weight": "500",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "XenonNue-Medium_Italic.woff2",
+            "XenonNue-Medium_Italic.woff",
+            "XenonNue-Medium_Italic.otf",
+            "XenonNue-Medium_Italic.ttf"
+          ]
+        },
+        {
+          "weight": "500",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "XenonNue-Medium.woff2",
+            "XenonNue-Medium.woff",
+            "XenonNue-Medium.otf",
+            "XenonNue-Medium.ttf"
+          ]
+        },
+        {
+          "weight": "600",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "XenonNue-SemiBold_Italic.woff2",
+            "XenonNue-SemiBold_Italic.woff",
+            "XenonNue-SemiBold_Italic.otf",
+            "XenonNue-SemiBold_Italic.ttf"
+          ]
+        },
+        {
+          "weight": "600",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "XenonNue-SemiBold.woff2",
+            "XenonNue-SemiBold.woff",
+            "XenonNue-SemiBold.otf",
+            "XenonNue-SemiBold.ttf"
+          ]
+        },
+        {
+          "weight": "700",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "XenonNue-Bold_Italic.woff2",
+            "XenonNue-Bold_Italic.woff",
+            "XenonNue-Bold_Italic.otf",
+            "XenonNue-Bold_Italic.ttf"
+          ]
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "XenonNue-Bold.woff2",
+            "XenonNue-Bold.woff",
+            "XenonNue-Bold.otf",
+            "XenonNue-Bold.ttf"
+          ]
+        },
+        {
+          "weight": "800",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "XenonNue-ExtraBold_Italic.woff2",
+            "XenonNue-ExtraBold_Italic.woff",
+            "XenonNue-ExtraBold_Italic.otf",
+            "XenonNue-ExtraBold_Italic.ttf"
+          ]
+        },
+        {
+          "weight": "800",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "XenonNue-ExtraBold.woff2",
+            "XenonNue-ExtraBold.woff",
+            "XenonNue-ExtraBold.otf",
+            "XenonNue-ExtraBold.ttf"
+          ]
+        },
+        {
+          "weight": "900",
+          "style": "italic",
+          "variable": false,
+          "files": [
+            "XenonNue-Heavy_Italic.woff2",
+            "XenonNue-Heavy_Italic.woff",
+            "XenonNue-Heavy_Italic.otf",
+            "XenonNue-Heavy_Italic.ttf"
+          ]
+        },
+        {
+          "weight": "900",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "XenonNue-Heavy.woff2",
+            "XenonNue-Heavy.woff",
+            "XenonNue-Heavy.otf",
+            "XenonNue-Heavy.ttf"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "nority",
+      "css_name": "Nority",
+      "category": "Inktrap Bold Display",
+      "use_case": "Modern high-impact headlines, ads, YouTube thumbnails",
+      "desktop_installed_files": 2,
+      "web_variants": 1,
+      "faces": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "Nority-Display.otf"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vank",
+      "css_name": "Vank",
+      "category": "Strong Bold Condensed Display",
+      "use_case": "Commanding poster/billboard headlines, viral thumbnails, KPI hero numbers",
+      "desktop_installed_files": 1,
+      "web_variants": 1,
+      "faces": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "variable": false,
+          "files": [
+            "GC-Vank.woff2",
+            "GC-Vank.woff",
+            "GC-Vank.otf",
+            "GC-Vank.ttf"
+          ]
+        }
+      ]
+    }
+  ]
+}
